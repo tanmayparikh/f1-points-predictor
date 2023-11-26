@@ -5,8 +5,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 337,Bahrain Grand Prix,2010,Bahrain International Circuit,Williams,HUL,13,14,OTHER
 338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,Ferrari,ALO,3,4,OTHER
 338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,McLaren,HAM,11,6,OTHER
-338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,Red Bull,VET,1,30,OTHER
-338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,Williams,HUL,15,30,OTHER
+338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,Red Bull,VET,1,0,OTHER
+338,Australian Grand Prix,2010,Albert Park Grand Prix Circuit,Williams,HUL,15,0,OTHER
 341,Spanish Grand Prix,2010,Circuit de Barcelona-Catalunya,Ferrari,ALO,4,2,OTHER
 341,Spanish Grand Prix,2010,Circuit de Barcelona-Catalunya,Red Bull,VET,2,3,OTHER
 341,Spanish Grand Prix,2010,Circuit de Barcelona-Catalunya,McLaren,HAM,3,14,OTHER
@@ -14,7 +14,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 342,Monaco Grand Prix,2010,Circuit de Monaco,Red Bull,VET,3,2,OTHER
 342,Monaco Grand Prix,2010,Circuit de Monaco,McLaren,HAM,5,5,OTHER
 342,Monaco Grand Prix,2010,Circuit de Monaco,Ferrari,ALO,24,6,OTHER
-342,Monaco Grand Prix,2010,Circuit de Monaco,Williams,HUL,11,30,OTHER
+342,Monaco Grand Prix,2010,Circuit de Monaco,Williams,HUL,11,0,OTHER
 344,Canadian Grand Prix,2010,Circuit Gilles Villeneuve,McLaren,HAM,1,1,OTHER
 344,Canadian Grand Prix,2010,Circuit Gilles Villeneuve,Ferrari,ALO,3,3,OTHER
 344,Canadian Grand Prix,2010,Circuit Gilles Villeneuve,Red Bull,VET,2,4,OTHER
@@ -26,23 +26,23 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 348,Hungarian Grand Prix,2010,Hungaroring,Ferrari,ALO,3,2,OTHER
 348,Hungarian Grand Prix,2010,Hungaroring,Red Bull,VET,1,3,OTHER
 348,Hungarian Grand Prix,2010,Hungaroring,Williams,HUL,10,6,OTHER
-348,Hungarian Grand Prix,2010,Hungaroring,McLaren,HAM,5,30,OTHER
+348,Hungarian Grand Prix,2010,Hungaroring,McLaren,HAM,5,0,OTHER
 349,Belgian Grand Prix,2010,Circuit de Spa-Francorchamps,McLaren,HAM,2,1,OTHER
 349,Belgian Grand Prix,2010,Circuit de Spa-Francorchamps,Williams,HUL,9,14,OTHER
 349,Belgian Grand Prix,2010,Circuit de Spa-Francorchamps,Red Bull,VET,4,15,OTHER
-349,Belgian Grand Prix,2010,Circuit de Spa-Francorchamps,Ferrari,ALO,10,30,OTHER
+349,Belgian Grand Prix,2010,Circuit de Spa-Francorchamps,Ferrari,ALO,10,0,OTHER
 350,Italian Grand Prix,2010,Autodromo Nazionale di Monza,Ferrari,ALO,1,1,OTHER
 350,Italian Grand Prix,2010,Autodromo Nazionale di Monza,Red Bull,VET,6,4,OTHER
 350,Italian Grand Prix,2010,Autodromo Nazionale di Monza,Williams,HUL,8,7,OTHER
-350,Italian Grand Prix,2010,Autodromo Nazionale di Monza,McLaren,HAM,5,30,OTHER
+350,Italian Grand Prix,2010,Autodromo Nazionale di Monza,McLaren,HAM,5,0,OTHER
 351,Singapore Grand Prix,2010,Marina Bay Street Circuit,Ferrari,ALO,1,1,OTHER
 351,Singapore Grand Prix,2010,Marina Bay Street Circuit,Red Bull,VET,2,2,OTHER
 351,Singapore Grand Prix,2010,Marina Bay Street Circuit,Williams,HUL,17,10,OTHER
-351,Singapore Grand Prix,2010,Marina Bay Street Circuit,McLaren,HAM,3,30,OTHER
+351,Singapore Grand Prix,2010,Marina Bay Street Circuit,McLaren,HAM,3,0,OTHER
 352,Japanese Grand Prix,2010,Suzuka Circuit,Red Bull,VET,1,1,OTHER
 352,Japanese Grand Prix,2010,Suzuka Circuit,Ferrari,ALO,4,3,OTHER
 352,Japanese Grand Prix,2010,Suzuka Circuit,McLaren,HAM,8,5,OTHER
-352,Japanese Grand Prix,2010,Suzuka Circuit,Williams,HUL,9,30,OTHER
+352,Japanese Grand Prix,2010,Suzuka Circuit,Williams,HUL,9,0,OTHER
 354,Brazilian Grand Prix,2010,Autódromo José Carlos Pace,Red Bull,VET,2,1,OTHER
 354,Brazilian Grand Prix,2010,Autódromo José Carlos Pace,Ferrari,ALO,5,3,OTHER
 354,Brazilian Grand Prix,2010,Autódromo José Carlos Pace,McLaren,HAM,4,4,OTHER
@@ -54,7 +54,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 841,Australian Grand Prix,2011,Albert Park Grand Prix Circuit,Red Bull,VET,1,1,OTHER
 841,Australian Grand Prix,2011,Albert Park Grand Prix Circuit,McLaren,HAM,2,2,OTHER
 841,Australian Grand Prix,2011,Albert Park Grand Prix Circuit,Ferrari,ALO,5,4,OTHER
-841,Australian Grand Prix,2011,Albert Park Grand Prix Circuit,Alfa Romeo,PER,13,30,OTHER
+841,Australian Grand Prix,2011,Albert Park Grand Prix Circuit,Alfa Romeo,PER,13,0,OTHER
 845,Spanish Grand Prix,2011,Circuit de Barcelona-Catalunya,Red Bull,VET,2,1,OTHER
 845,Spanish Grand Prix,2011,Circuit de Barcelona-Catalunya,McLaren,HAM,3,2,OTHER
 845,Spanish Grand Prix,2011,Circuit de Barcelona-Catalunya,Ferrari,ALO,4,5,OTHER
@@ -63,8 +63,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 846,Monaco Grand Prix,2011,Circuit de Monaco,Ferrari,ALO,4,2,OTHER
 846,Monaco Grand Prix,2011,Circuit de Monaco,McLaren,HAM,9,6,OTHER
 847,Canadian Grand Prix,2011,Circuit Gilles Villeneuve,Red Bull,VET,1,2,OTHER
-847,Canadian Grand Prix,2011,Circuit Gilles Villeneuve,Ferrari,ALO,2,30,OTHER
-847,Canadian Grand Prix,2011,Circuit Gilles Villeneuve,McLaren,HAM,5,30,OTHER
+847,Canadian Grand Prix,2011,Circuit Gilles Villeneuve,Ferrari,ALO,2,0,OTHER
+847,Canadian Grand Prix,2011,Circuit Gilles Villeneuve,McLaren,HAM,5,0,OTHER
 849,British Grand Prix,2011,Silverstone Circuit,Ferrari,ALO,3,1,OTHER
 849,British Grand Prix,2011,Silverstone Circuit,Red Bull,VET,2,2,OTHER
 849,British Grand Prix,2011,Silverstone Circuit,McLaren,HAM,10,4,OTHER
@@ -75,12 +75,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 851,Hungarian Grand Prix,2011,Hungaroring,Alfa Romeo,PER,10,15,OTHER
 852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,Red Bull,VET,1,1,OTHER
 852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,Ferrari,ALO,8,4,OTHER
-852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,Alfa Romeo,PER,9,30,OTHER
-852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,McLaren,HAM,2,30,OTHER
+852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,Alfa Romeo,PER,9,0,OTHER
+852,Belgian Grand Prix,2011,Circuit de Spa-Francorchamps,McLaren,HAM,2,0,OTHER
 853,Italian Grand Prix,2011,Autodromo Nazionale di Monza,Red Bull,VET,1,1,OTHER
 853,Italian Grand Prix,2011,Autodromo Nazionale di Monza,Ferrari,ALO,4,3,OTHER
 853,Italian Grand Prix,2011,Autodromo Nazionale di Monza,McLaren,HAM,2,4,OTHER
-853,Italian Grand Prix,2011,Autodromo Nazionale di Monza,Alfa Romeo,PER,15,30,OTHER
+853,Italian Grand Prix,2011,Autodromo Nazionale di Monza,Alfa Romeo,PER,15,0,OTHER
 854,Singapore Grand Prix,2011,Marina Bay Street Circuit,Red Bull,VET,1,1,OTHER
 854,Singapore Grand Prix,2011,Marina Bay Street Circuit,Ferrari,ALO,5,4,OTHER
 854,Singapore Grand Prix,2011,Marina Bay Street Circuit,McLaren,HAM,4,5,OTHER
@@ -92,19 +92,19 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 858,Abu Dhabi Grand Prix,2011,Yas Marina Circuit,McLaren,HAM,2,1,OTHER
 858,Abu Dhabi Grand Prix,2011,Yas Marina Circuit,Ferrari,ALO,5,2,OTHER
 858,Abu Dhabi Grand Prix,2011,Yas Marina Circuit,Alfa Romeo,PER,11,11,OTHER
-858,Abu Dhabi Grand Prix,2011,Yas Marina Circuit,Red Bull,VET,1,30,OTHER
+858,Abu Dhabi Grand Prix,2011,Yas Marina Circuit,Red Bull,VET,1,0,OTHER
 859,Brazilian Grand Prix,2011,Autódromo José Carlos Pace,Red Bull,VET,1,2,OTHER
 859,Brazilian Grand Prix,2011,Autódromo José Carlos Pace,Ferrari,ALO,5,4,OTHER
 859,Brazilian Grand Prix,2011,Autódromo José Carlos Pace,Alfa Romeo,PER,17,13,OTHER
-859,Brazilian Grand Prix,2011,Autódromo José Carlos Pace,McLaren,HAM,4,30,OTHER
+859,Brazilian Grand Prix,2011,Autódromo José Carlos Pace,McLaren,HAM,4,0,OTHER
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Red Bull,VET,6,2,OTHER
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,McLaren,HAM,1,3,OTHER
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Ferrari,ALO,12,5,OTHER
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Alpine F1 Team,RAI,17,7,GRO
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Alfa Romeo,PER,22,8,OTHER
 860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,AlphaTauri,RIC,10,9,OTHER
-860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,3,30,RAI
-860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Aston Martin,HUL,9,30,OTHER
+860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,3,0,RAI
+860,Australian Grand Prix,2012,Albert Park Grand Prix Circuit,Aston Martin,HUL,9,0,OTHER
 863,Bahrain Grand Prix,2012,Bahrain International Circuit,Red Bull,VET,1,1,OTHER
 863,Bahrain Grand Prix,2012,Bahrain International Circuit,Alpine F1 Team,RAI,11,2,GRO
 863,Bahrain Grand Prix,2012,Bahrain International Circuit,Alpine F1 Team,GRO,7,3,RAI
@@ -120,15 +120,15 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 864,Spanish Grand Prix,2012,Circuit de Barcelona-Catalunya,McLaren,HAM,24,8,OTHER
 864,Spanish Grand Prix,2012,Circuit de Barcelona-Catalunya,Aston Martin,HUL,13,10,OTHER
 864,Spanish Grand Prix,2012,Circuit de Barcelona-Catalunya,AlphaTauri,RIC,15,13,OTHER
-864,Spanish Grand Prix,2012,Circuit de Barcelona-Catalunya,Alfa Romeo,PER,5,30,OTHER
+864,Spanish Grand Prix,2012,Circuit de Barcelona-Catalunya,Alfa Romeo,PER,5,0,OTHER
 865,Monaco Grand Prix,2012,Circuit de Monaco,Ferrari,ALO,5,3,OTHER
 865,Monaco Grand Prix,2012,Circuit de Monaco,Red Bull,VET,9,4,OTHER
 865,Monaco Grand Prix,2012,Circuit de Monaco,McLaren,HAM,3,5,OTHER
 865,Monaco Grand Prix,2012,Circuit de Monaco,Aston Martin,HUL,10,8,OTHER
 865,Monaco Grand Prix,2012,Circuit de Monaco,Alpine F1 Team,RAI,8,9,GRO
 865,Monaco Grand Prix,2012,Circuit de Monaco,Alfa Romeo,PER,23,11,OTHER
-865,Monaco Grand Prix,2012,Circuit de Monaco,AlphaTauri,RIC,15,30,OTHER
-865,Monaco Grand Prix,2012,Circuit de Monaco,Alpine F1 Team,GRO,4,30,RAI
+865,Monaco Grand Prix,2012,Circuit de Monaco,AlphaTauri,RIC,15,0,OTHER
+865,Monaco Grand Prix,2012,Circuit de Monaco,Alpine F1 Team,GRO,4,0,RAI
 866,Canadian Grand Prix,2012,Circuit Gilles Villeneuve,McLaren,HAM,2,1,OTHER
 866,Canadian Grand Prix,2012,Circuit Gilles Villeneuve,Alpine F1 Team,GRO,7,2,RAI
 866,Canadian Grand Prix,2012,Circuit Gilles Villeneuve,Alfa Romeo,PER,15,3,OTHER
@@ -144,7 +144,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 868,British Grand Prix,2012,Silverstone Circuit,McLaren,HAM,8,8,OTHER
 868,British Grand Prix,2012,Silverstone Circuit,Aston Martin,HUL,14,12,OTHER
 868,British Grand Prix,2012,Silverstone Circuit,AlphaTauri,RIC,12,13,OTHER
-868,British Grand Prix,2012,Silverstone Circuit,Alfa Romeo,PER,15,30,OTHER
+868,British Grand Prix,2012,Silverstone Circuit,Alfa Romeo,PER,15,0,OTHER
 870,Hungarian Grand Prix,2012,Hungaroring,McLaren,HAM,1,1,OTHER
 870,Hungarian Grand Prix,2012,Hungaroring,Alpine F1 Team,RAI,5,2,GRO
 870,Hungarian Grand Prix,2012,Hungaroring,Alpine F1 Team,GRO,2,3,RAI
@@ -157,10 +157,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Alpine F1 Team,RAI,3,3,GRO
 871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Aston Martin,HUL,11,4,OTHER
 871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,AlphaTauri,RIC,16,9,OTHER
-871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Alfa Romeo,PER,4,30,OTHER
-871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Ferrari,ALO,5,30,OTHER
-871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,McLaren,HAM,7,30,OTHER
-871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Alpine F1 Team,GRO,8,30,RAI
+871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Alfa Romeo,PER,4,0,OTHER
+871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Ferrari,ALO,5,0,OTHER
+871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,McLaren,HAM,7,0,OTHER
+871,Belgian Grand Prix,2012,Circuit de Spa-Francorchamps,Alpine F1 Team,GRO,8,0,RAI
 872,Italian Grand Prix,2012,Autodromo Nazionale di Monza,McLaren,HAM,1,1,OTHER
 872,Italian Grand Prix,2012,Autodromo Nazionale di Monza,Alfa Romeo,PER,12,2,OTHER
 872,Italian Grand Prix,2012,Autodromo Nazionale di Monza,Ferrari,ALO,10,3,OTHER
@@ -175,23 +175,23 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 873,Singapore Grand Prix,2012,Marina Bay Street Circuit,AlphaTauri,RIC,15,9,OTHER
 873,Singapore Grand Prix,2012,Marina Bay Street Circuit,Alfa Romeo,PER,14,10,OTHER
 873,Singapore Grand Prix,2012,Marina Bay Street Circuit,Aston Martin,HUL,11,14,OTHER
-873,Singapore Grand Prix,2012,Marina Bay Street Circuit,McLaren,HAM,1,30,OTHER
+873,Singapore Grand Prix,2012,Marina Bay Street Circuit,McLaren,HAM,1,0,OTHER
 874,Japanese Grand Prix,2012,Suzuka Circuit,Red Bull,VET,1,1,OTHER
 874,Japanese Grand Prix,2012,Suzuka Circuit,McLaren,HAM,9,5,OTHER
 874,Japanese Grand Prix,2012,Suzuka Circuit,Alpine F1 Team,RAI,7,6,GRO
 874,Japanese Grand Prix,2012,Suzuka Circuit,Aston Martin,HUL,15,7,OTHER
 874,Japanese Grand Prix,2012,Suzuka Circuit,AlphaTauri,RIC,14,10,OTHER
 874,Japanese Grand Prix,2012,Suzuka Circuit,Alpine F1 Team,GRO,4,19,RAI
-874,Japanese Grand Prix,2012,Suzuka Circuit,Alfa Romeo,PER,5,30,OTHER
-874,Japanese Grand Prix,2012,Suzuka Circuit,Ferrari,ALO,6,30,OTHER
+874,Japanese Grand Prix,2012,Suzuka Circuit,Alfa Romeo,PER,5,0,OTHER
+874,Japanese Grand Prix,2012,Suzuka Circuit,Ferrari,ALO,6,0,OTHER
 877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Alpine F1 Team,RAI,4,1,GRO
 877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Ferrari,ALO,6,2,OTHER
 877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Red Bull,VET,24,3,OTHER
 877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,AlphaTauri,RIC,16,10,OTHER
 877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Alfa Romeo,PER,11,15,OTHER
-877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Alpine F1 Team,GRO,9,30,RAI
-877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,McLaren,HAM,1,30,OTHER
-877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Aston Martin,HUL,10,30,OTHER
+877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Alpine F1 Team,GRO,9,0,RAI
+877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,McLaren,HAM,1,0,OTHER
+877,Abu Dhabi Grand Prix,2012,Yas Marina Circuit,Aston Martin,HUL,10,0,OTHER
 878,United States Grand Prix,2012,Circuit of the Americas,McLaren,HAM,2,1,OTHER
 878,United States Grand Prix,2012,Circuit of the Americas,Red Bull,VET,1,2,OTHER
 878,United States Grand Prix,2012,Circuit of the Americas,Ferrari,ALO,7,3,OTHER
@@ -205,9 +205,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Red Bull,VET,4,6,OTHER
 879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Alpine F1 Team,RAI,8,10,GRO
 879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,AlphaTauri,RIC,15,13,OTHER
-879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,McLaren,HAM,1,30,OTHER
-879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Alpine F1 Team,GRO,18,30,RAI
-879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Alfa Romeo,PER,12,30,OTHER
+879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,McLaren,HAM,1,0,OTHER
+879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Alpine F1 Team,GRO,18,0,RAI
+879,Brazilian Grand Prix,2012,Autódromo José Carlos Pace,Alfa Romeo,PER,12,0,OTHER
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Alpine F1 Team,RAI,7,1,GRO
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Ferrari,ALO,5,2,OTHER
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Red Bull,VET,1,3,OTHER
@@ -215,8 +215,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,8,10,RAI
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,McLaren,PER,15,11,OTHER
 880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Williams,BOT,16,14,OTHER
-880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,AlphaTauri,RIC,14,30,OTHER
-880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Alfa Romeo,HUL,11,30,OTHER
+880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,AlphaTauri,RIC,14,0,OTHER
+880,Australian Grand Prix,2013,Albert Park Grand Prix Circuit,Alfa Romeo,HUL,11,0,OTHER
 883,Bahrain Grand Prix,2013,Bahrain International Circuit,Red Bull,VET,2,1,OTHER
 883,Bahrain Grand Prix,2013,Bahrain International Circuit,Alpine F1 Team,RAI,8,2,GRO
 883,Bahrain Grand Prix,2013,Bahrain International Circuit,Alpine F1 Team,GRO,11,3,RAI
@@ -242,8 +242,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 885,Monaco Grand Prix,2013,Circuit de Monaco,Alfa Romeo,HUL,11,11,OTHER
 885,Monaco Grand Prix,2013,Circuit de Monaco,Williams,BOT,14,12,OTHER
 885,Monaco Grand Prix,2013,Circuit de Monaco,McLaren,PER,7,16,OTHER
-885,Monaco Grand Prix,2013,Circuit de Monaco,Alpine F1 Team,GRO,13,30,RAI
-885,Monaco Grand Prix,2013,Circuit de Monaco,AlphaTauri,RIC,12,30,OTHER
+885,Monaco Grand Prix,2013,Circuit de Monaco,Alpine F1 Team,GRO,13,0,RAI
+885,Monaco Grand Prix,2013,Circuit de Monaco,AlphaTauri,RIC,12,0,OTHER
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Red Bull,VET,1,1,OTHER
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Ferrari,ALO,6,2,OTHER
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Mercedes,HAM,2,3,OTHER
@@ -252,7 +252,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Alpine F1 Team,GRO,22,13,RAI
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Williams,BOT,3,14,OTHER
 886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,AlphaTauri,RIC,11,15,OTHER
-886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Alfa Romeo,HUL,9,30,OTHER
+886,Canadian Grand Prix,2013,Circuit Gilles Villeneuve,Alfa Romeo,HUL,9,0,OTHER
 887,British Grand Prix,2013,Silverstone Circuit,Ferrari,ALO,9,3,OTHER
 887,British Grand Prix,2013,Silverstone Circuit,Mercedes,HAM,1,4,OTHER
 887,British Grand Prix,2013,Silverstone Circuit,Alpine F1 Team,RAI,8,5,GRO
@@ -261,7 +261,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 887,British Grand Prix,2013,Silverstone Circuit,Williams,BOT,16,12,OTHER
 887,British Grand Prix,2013,Silverstone Circuit,Alpine F1 Team,GRO,7,19,RAI
 887,British Grand Prix,2013,Silverstone Circuit,McLaren,PER,13,20,OTHER
-887,British Grand Prix,2013,Silverstone Circuit,Red Bull,VET,3,30,OTHER
+887,British Grand Prix,2013,Silverstone Circuit,Red Bull,VET,3,0,OTHER
 890,Hungarian Grand Prix,2013,Hungaroring,Mercedes,HAM,1,1,OTHER
 890,Hungarian Grand Prix,2013,Hungaroring,Alpine F1 Team,RAI,6,2,GRO
 890,Hungarian Grand Prix,2013,Hungaroring,Red Bull,VET,2,3,OTHER
@@ -270,7 +270,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 890,Hungarian Grand Prix,2013,Hungaroring,McLaren,PER,9,9,OTHER
 890,Hungarian Grand Prix,2013,Hungaroring,Alfa Romeo,HUL,12,11,OTHER
 890,Hungarian Grand Prix,2013,Hungaroring,AlphaTauri,RIC,8,13,OTHER
-890,Hungarian Grand Prix,2013,Hungaroring,Williams,BOT,16,30,OTHER
+890,Hungarian Grand Prix,2013,Hungaroring,Williams,BOT,16,0,OTHER
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Red Bull,VET,2,1,OTHER
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Ferrari,ALO,9,2,OTHER
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Mercedes,HAM,1,3,OTHER
@@ -279,7 +279,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,McLaren,PER,13,11,OTHER
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Alfa Romeo,HUL,11,13,OTHER
 891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Williams,BOT,20,15,OTHER
-891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Alpine F1 Team,RAI,8,30,GRO
+891,Belgian Grand Prix,2013,Circuit de Spa-Francorchamps,Alpine F1 Team,RAI,8,0,GRO
 892,Italian Grand Prix,2013,Autodromo Nazionale di Monza,Red Bull,VET,1,1,OTHER
 892,Italian Grand Prix,2013,Autodromo Nazionale di Monza,Ferrari,ALO,5,2,OTHER
 892,Italian Grand Prix,2013,Autodromo Nazionale di Monza,Alfa Romeo,HUL,3,5,OTHER
@@ -296,8 +296,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 893,Singapore Grand Prix,2013,Marina Bay Street Circuit,McLaren,PER,14,8,OTHER
 893,Singapore Grand Prix,2013,Marina Bay Street Circuit,Alfa Romeo,HUL,11,9,OTHER
 893,Singapore Grand Prix,2013,Marina Bay Street Circuit,Williams,BOT,16,13,OTHER
-893,Singapore Grand Prix,2013,Marina Bay Street Circuit,Alpine F1 Team,GRO,3,30,RAI
-893,Singapore Grand Prix,2013,Marina Bay Street Circuit,AlphaTauri,RIC,9,30,OTHER
+893,Singapore Grand Prix,2013,Marina Bay Street Circuit,Alpine F1 Team,GRO,3,0,RAI
+893,Singapore Grand Prix,2013,Marina Bay Street Circuit,AlphaTauri,RIC,9,0,OTHER
 895,Japanese Grand Prix,2013,Suzuka Circuit,Red Bull,VET,2,1,OTHER
 895,Japanese Grand Prix,2013,Suzuka Circuit,Alpine F1 Team,GRO,4,3,RAI
 895,Japanese Grand Prix,2013,Suzuka Circuit,Ferrari,ALO,8,4,OTHER
@@ -306,7 +306,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 895,Japanese Grand Prix,2013,Suzuka Circuit,AlphaTauri,RIC,16,13,OTHER
 895,Japanese Grand Prix,2013,Suzuka Circuit,McLaren,PER,11,15,OTHER
 895,Japanese Grand Prix,2013,Suzuka Circuit,Williams,BOT,13,17,OTHER
-895,Japanese Grand Prix,2013,Suzuka Circuit,Mercedes,HAM,3,30,OTHER
+895,Japanese Grand Prix,2013,Suzuka Circuit,Mercedes,HAM,3,0,OTHER
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Red Bull,VET,2,1,OTHER
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Alpine F1 Team,GRO,6,4,RAI
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Ferrari,ALO,10,5,OTHER
@@ -315,7 +315,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Alfa Romeo,HUL,5,14,OTHER
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Williams,BOT,15,15,OTHER
 897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,AlphaTauri,RIC,9,16,OTHER
-897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Alpine F1 Team,RAI,22,30,GRO
+897,Abu Dhabi Grand Prix,2013,Yas Marina Circuit,Alpine F1 Team,RAI,22,0,GRO
 898,United States Grand Prix,2013,Circuit of the Americas,Red Bull,VET,1,1,OTHER
 898,United States Grand Prix,2013,Circuit of the Americas,Alpine F1 Team,GRO,3,2,OTHER
 898,United States Grand Prix,2013,Circuit of the Americas,Mercedes,HAM,5,4,OTHER
@@ -330,18 +330,18 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Alfa Romeo,HUL,10,8,OTHER
 899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Mercedes,HAM,5,9,OTHER
 899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,AlphaTauri,RIC,7,10,OTHER
-899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Williams,BOT,13,30,OTHER
-899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Alpine F1 Team,GRO,6,30,OTHER
+899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Williams,BOT,13,0,OTHER
+899,Brazilian Grand Prix,2013,Autódromo José Carlos Pace,Alpine F1 Team,GRO,6,0,OTHER
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,McLaren,MAG,4,2,OTHER
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Ferrari,ALO,5,4,RAI
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Williams,BOT,15,5,OTHER
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Aston Martin,HUL,7,6,PER
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Ferrari,RAI,11,7,ALO
 900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Aston Martin,PER,16,10,HUL
-900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,22,30,OTHER
-900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Red Bull,VET,12,30,RIC
-900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Mercedes,HAM,1,30,OTHER
-900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Red Bull,RIC,2,30,VET
+900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,22,0,OTHER
+900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Red Bull,VET,12,0,RIC
+900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Mercedes,HAM,1,0,OTHER
+900,Australian Grand Prix,2014,Albert Park Grand Prix Circuit,Red Bull,RIC,2,0,VET
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Mercedes,HAM,2,1,OTHER
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Aston Martin,PER,4,3,HUL
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Red Bull,RIC,13,4,VET
@@ -351,7 +351,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Ferrari,ALO,9,9,RAI
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Ferrari,RAI,5,10,ALO
 902,Bahrain Grand Prix,2014,Bahrain International Circuit,Alpine F1 Team,GRO,16,12,OTHER
-902,Bahrain Grand Prix,2014,Bahrain International Circuit,McLaren,MAG,8,30,OTHER
+902,Bahrain Grand Prix,2014,Bahrain International Circuit,McLaren,MAG,8,0,OTHER
 904,Spanish Grand Prix,2014,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,1,OTHER
 904,Spanish Grand Prix,2014,Circuit de Barcelona-Catalunya,Red Bull,RIC,3,3,VET
 904,Spanish Grand Prix,2014,Circuit de Barcelona-Catalunya,Red Bull,VET,15,4,RIC
@@ -369,9 +369,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 905,Monaco Grand Prix,2014,Circuit de Monaco,Alpine F1 Team,GRO,14,8,OTHER
 905,Monaco Grand Prix,2014,Circuit de Monaco,McLaren,MAG,8,10,OTHER
 905,Monaco Grand Prix,2014,Circuit de Monaco,Ferrari,RAI,6,12,ALO
-905,Monaco Grand Prix,2014,Circuit de Monaco,Williams,BOT,13,30,OTHER
-905,Monaco Grand Prix,2014,Circuit de Monaco,Red Bull,VET,4,30,RIC
-905,Monaco Grand Prix,2014,Circuit de Monaco,Aston Martin,PER,10,30,HUL
+905,Monaco Grand Prix,2014,Circuit de Monaco,Williams,BOT,13,0,OTHER
+905,Monaco Grand Prix,2014,Circuit de Monaco,Red Bull,VET,4,0,RIC
+905,Monaco Grand Prix,2014,Circuit de Monaco,Aston Martin,PER,10,0,HUL
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Red Bull,RIC,6,1,VET
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Red Bull,VET,3,3,RIC
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Aston Martin,HUL,11,5,PER
@@ -380,8 +380,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,McLaren,MAG,12,9,OTHER
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Ferrari,RAI,10,10,ALO
 906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Aston Martin,PER,13,11,HUL
-906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Alpine F1 Team,GRO,14,30,OTHER
-906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Mercedes,HAM,2,30,OTHER
+906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Alpine F1 Team,GRO,14,0,OTHER
+906,Canadian Grand Prix,2014,Circuit Gilles Villeneuve,Mercedes,HAM,2,0,OTHER
 907,Austrian Grand Prix,2014,Red Bull Ring,Mercedes,HAM,9,2,OTHER
 907,Austrian Grand Prix,2014,Red Bull Ring,Williams,BOT,2,3,OTHER
 907,Austrian Grand Prix,2014,Red Bull Ring,Ferrari,ALO,4,5,RAI
@@ -391,7 +391,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 907,Austrian Grand Prix,2014,Red Bull Ring,Aston Martin,HUL,10,9,PER
 907,Austrian Grand Prix,2014,Red Bull Ring,Ferrari,RAI,8,10,ALO
 907,Austrian Grand Prix,2014,Red Bull Ring,Alpine F1 Team,GRO,22,14,OTHER
-907,Austrian Grand Prix,2014,Red Bull Ring,Red Bull,VET,12,30,RIC
+907,Austrian Grand Prix,2014,Red Bull Ring,Red Bull,VET,12,0,RIC
 908,British Grand Prix,2014,Silverstone Circuit,Mercedes,HAM,6,1,OTHER
 908,British Grand Prix,2014,Silverstone Circuit,Williams,BOT,14,2,OTHER
 908,British Grand Prix,2014,Silverstone Circuit,Red Bull,RIC,8,3,VET
@@ -401,7 +401,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 908,British Grand Prix,2014,Silverstone Circuit,Aston Martin,HUL,4,8,PER
 908,British Grand Prix,2014,Silverstone Circuit,Aston Martin,PER,7,11,HUL
 908,British Grand Prix,2014,Silverstone Circuit,Alpine F1 Team,GRO,11,12,OTHER
-908,British Grand Prix,2014,Silverstone Circuit,Ferrari,RAI,18,30,ALO
+908,British Grand Prix,2014,Silverstone Circuit,Ferrari,RAI,18,0,ALO
 910,Hungarian Grand Prix,2014,Hungaroring,Red Bull,RIC,4,1,VET
 910,Hungarian Grand Prix,2014,Hungaroring,Ferrari,ALO,5,2,RAI
 910,Hungarian Grand Prix,2014,Hungaroring,Mercedes,HAM,22,3,OTHER
@@ -409,9 +409,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 910,Hungarian Grand Prix,2014,Hungaroring,Red Bull,VET,2,7,RIC
 910,Hungarian Grand Prix,2014,Hungaroring,Williams,BOT,3,8,OTHER
 910,Hungarian Grand Prix,2014,Hungaroring,McLaren,MAG,21,12,OTHER
-910,Hungarian Grand Prix,2014,Hungaroring,Aston Martin,PER,12,30,HUL
-910,Hungarian Grand Prix,2014,Hungaroring,Aston Martin,HUL,9,30,PER
-910,Hungarian Grand Prix,2014,Hungaroring,Alpine F1 Team,GRO,14,30,OTHER
+910,Hungarian Grand Prix,2014,Hungaroring,Aston Martin,PER,12,0,HUL
+910,Hungarian Grand Prix,2014,Hungaroring,Aston Martin,HUL,9,0,PER
+910,Hungarian Grand Prix,2014,Hungaroring,Alpine F1 Team,GRO,14,0,OTHER
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Red Bull,RIC,5,1,VET
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Williams,BOT,6,3,OTHER
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Ferrari,RAI,8,4,ALO
@@ -420,8 +420,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Aston Martin,PER,13,8,HUL
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Aston Martin,HUL,18,10,PER
 911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,McLaren,MAG,7,12,OTHER
-911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Mercedes,HAM,2,30,OTHER
-911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Alpine F1 Team,GRO,15,30,OTHER
+911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Mercedes,HAM,2,0,OTHER
+911,Belgian Grand Prix,2014,Circuit de Spa-Francorchamps,Alpine F1 Team,GRO,15,0,OTHER
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Mercedes,HAM,1,1,OTHER
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Williams,BOT,3,4,OTHER
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Red Bull,RIC,9,5,VET
@@ -431,7 +431,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,McLaren,MAG,5,10,OTHER
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Aston Martin,HUL,13,12,PER
 912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Alpine F1 Team,GRO,17,16,OTHER
-912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Ferrari,ALO,7,30,RAI
+912,Italian Grand Prix,2014,Autodromo Nazionale di Monza,Ferrari,ALO,7,0,RAI
 913,Singapore Grand Prix,2014,Marina Bay Street Circuit,Mercedes,HAM,1,1,OTHER
 913,Singapore Grand Prix,2014,Marina Bay Street Circuit,Red Bull,VET,4,2,RIC
 913,Singapore Grand Prix,2014,Marina Bay Street Circuit,Red Bull,RIC,3,3,VET
@@ -451,7 +451,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 914,Japanese Grand Prix,2014,Suzuka Circuit,Ferrari,RAI,10,12,ALO
 914,Japanese Grand Prix,2014,Suzuka Circuit,McLaren,MAG,7,14,OTHER
 914,Japanese Grand Prix,2014,Suzuka Circuit,Alpine F1 Team,GRO,16,15,OTHER
-914,Japanese Grand Prix,2014,Suzuka Circuit,Ferrari,ALO,5,30,RAI
+914,Japanese Grand Prix,2014,Suzuka Circuit,Ferrari,ALO,5,0,RAI
 916,United States Grand Prix,2014,Circuit of the Americas,Mercedes,HAM,2,1,OTHER
 916,United States Grand Prix,2014,Circuit of the Americas,Red Bull,RIC,5,3,VET
 916,United States Grand Prix,2014,Circuit of the Americas,Williams,BOT,3,5,OTHER
@@ -460,8 +460,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 916,United States Grand Prix,2014,Circuit of the Americas,McLaren,MAG,7,8,OTHER
 916,United States Grand Prix,2014,Circuit of the Americas,Alpine F1 Team,GRO,16,11,OTHER
 916,United States Grand Prix,2014,Circuit of the Americas,Ferrari,RAI,8,13,ALO
-916,United States Grand Prix,2014,Circuit of the Americas,Aston Martin,HUL,13,30,PER
-916,United States Grand Prix,2014,Circuit of the Americas,Aston Martin,PER,11,30,HUL
+916,United States Grand Prix,2014,Circuit of the Americas,Aston Martin,HUL,13,0,PER
+916,United States Grand Prix,2014,Circuit of the Americas,Aston Martin,PER,11,0,HUL
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Mercedes,HAM,2,2,OTHER
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Red Bull,VET,6,5,RIC
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Ferrari,ALO,8,6,RAI
@@ -471,7 +471,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Williams,BOT,4,10,OTHER
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Aston Martin,PER,18,15,HUL
 917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Alpine F1 Team,GRO,14,17,OTHER
-917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Red Bull,RIC,9,30,VET
+917,Brazilian Grand Prix,2014,Autódromo José Carlos Pace,Red Bull,RIC,9,0,VET
 918,Abu Dhabi Grand Prix,2014,Yas Marina Circuit,Mercedes,HAM,2,1,OTHER
 918,Abu Dhabi Grand Prix,2014,Yas Marina Circuit,Williams,BOT,3,3,OTHER
 918,Abu Dhabi Grand Prix,2014,Yas Marina Circuit,Red Bull,RIC,20,4,VET
@@ -488,11 +488,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Aston Martin,HUL,13,7,PER
 926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,AlphaTauri,SAI,7,9,VER
 926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Aston Martin,PER,14,10,HUL
-926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Ferrari,RAI,5,30,VET
-926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,AlphaTauri,VER,11,30,SAI
-926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,8,30,OTHER
-926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,McLaren,MAG,17,30,OTHER
-926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Williams,BOT,30,30,OTHER
+926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Ferrari,RAI,5,0,VET
+926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,AlphaTauri,VER,11,0,SAI
+926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Alpine F1 Team,GRO,8,0,OTHER
+926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,McLaren,MAG,17,0,OTHER
+926,Australian Grand Prix,2015,Albert Park Grand Prix Circuit,Williams,BOT,0,0,OTHER
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,Mercedes,HAM,1,1,OTHER
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,Ferrari,RAI,4,2,VET
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,Williams,BOT,5,4,OTHER
@@ -502,8 +502,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,Aston Martin,PER,11,8,HUL
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,McLaren,ALO,14,11,OTHER
 929,Bahrain Grand Prix,2015,Bahrain International Circuit,Aston Martin,HUL,8,13,PER
-929,Bahrain Grand Prix,2015,Bahrain International Circuit,AlphaTauri,VER,15,30,SAI
-929,Bahrain Grand Prix,2015,Bahrain International Circuit,AlphaTauri,SAI,9,30,VER
+929,Bahrain Grand Prix,2015,Bahrain International Circuit,AlphaTauri,VER,15,0,SAI
+929,Bahrain Grand Prix,2015,Bahrain International Circuit,AlphaTauri,SAI,9,0,VER
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,Mercedes,HAM,2,2,OTHER
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,Ferrari,VET,3,3,RAI
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,Williams,BOT,4,4,OTHER
@@ -514,18 +514,18 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,AlphaTauri,VER,6,11,SAI
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,Aston Martin,PER,18,13,HUL
 930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,Aston Martin,HUL,17,15,PER
-930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,McLaren,ALO,13,30,OTHER
+930,Spanish Grand Prix,2015,Circuit de Barcelona-Catalunya,McLaren,ALO,13,0,OTHER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Ferrari,VET,3,2,RAI
 931,Monaco Grand Prix,2015,Circuit de Monaco,Mercedes,HAM,1,3,OTHER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Red Bull,RIC,4,5,OTHER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Ferrari,RAI,6,6,VET
 931,Monaco Grand Prix,2015,Circuit de Monaco,Aston Martin,PER,7,7,HUL
-931,Monaco Grand Prix,2015,Circuit de Monaco,AlphaTauri,SAI,30,10,VER
+931,Monaco Grand Prix,2015,Circuit de Monaco,AlphaTauri,SAI,0,10,VER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Aston Martin,HUL,11,11,PER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Alpine F1 Team,GRO,15,12,OTHER
 931,Monaco Grand Prix,2015,Circuit de Monaco,Williams,BOT,16,14,OTHER
-931,Monaco Grand Prix,2015,Circuit de Monaco,AlphaTauri,VER,9,30,SAI
-931,Monaco Grand Prix,2015,Circuit de Monaco,McLaren,ALO,13,30,OTHER
+931,Monaco Grand Prix,2015,Circuit de Monaco,AlphaTauri,VER,9,0,SAI
+931,Monaco Grand Prix,2015,Circuit de Monaco,McLaren,ALO,13,0,OTHER
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,Mercedes,HAM,1,1,OTHER
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,Williams,BOT,4,3,OTHER
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,Ferrari,RAI,3,4,VET
@@ -536,7 +536,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,AlphaTauri,SAI,11,12,VER
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,Red Bull,RIC,9,13,OTHER
 932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,AlphaTauri,VER,19,15,SAI
-932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,McLaren,ALO,13,30,OTHER
+932,Canadian Grand Prix,2015,Circuit Gilles Villeneuve,McLaren,ALO,13,0,OTHER
 933,Austrian Grand Prix,2015,Red Bull Ring,Mercedes,HAM,1,2,OTHER
 933,Austrian Grand Prix,2015,Red Bull Ring,Ferrari,VET,3,4,RAI
 933,Austrian Grand Prix,2015,Red Bull Ring,Williams,BOT,6,5,OTHER
@@ -544,10 +544,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 933,Austrian Grand Prix,2015,Red Bull Ring,AlphaTauri,VER,7,8,SAI
 933,Austrian Grand Prix,2015,Red Bull Ring,Aston Martin,PER,13,9,HUL
 933,Austrian Grand Prix,2015,Red Bull Ring,Red Bull,RIC,18,10,OTHER
-933,Austrian Grand Prix,2015,Red Bull Ring,Alpine F1 Team,GRO,9,30,OTHER
-933,Austrian Grand Prix,2015,Red Bull Ring,AlphaTauri,SAI,12,30,VER
-933,Austrian Grand Prix,2015,Red Bull Ring,Ferrari,RAI,14,30,VET
-933,Austrian Grand Prix,2015,Red Bull Ring,McLaren,ALO,19,30,OTHER
+933,Austrian Grand Prix,2015,Red Bull Ring,Alpine F1 Team,GRO,9,0,OTHER
+933,Austrian Grand Prix,2015,Red Bull Ring,AlphaTauri,SAI,12,0,VER
+933,Austrian Grand Prix,2015,Red Bull Ring,Ferrari,RAI,14,0,VET
+933,Austrian Grand Prix,2015,Red Bull Ring,McLaren,ALO,19,0,OTHER
 934,British Grand Prix,2015,Silverstone Circuit,Mercedes,HAM,1,1,OTHER
 934,British Grand Prix,2015,Silverstone Circuit,Ferrari,VET,6,3,RAI
 934,British Grand Prix,2015,Silverstone Circuit,Williams,BOT,4,5,OTHER
@@ -555,10 +555,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 934,British Grand Prix,2015,Silverstone Circuit,Ferrari,RAI,5,8,VET
 934,British Grand Prix,2015,Silverstone Circuit,Aston Martin,PER,11,9,HUL
 934,British Grand Prix,2015,Silverstone Circuit,McLaren,ALO,17,10,OTHER
-934,British Grand Prix,2015,Silverstone Circuit,AlphaTauri,SAI,8,30,VER
-934,British Grand Prix,2015,Silverstone Circuit,Red Bull,RIC,10,30,OTHER
-934,British Grand Prix,2015,Silverstone Circuit,AlphaTauri,VER,13,30,SAI
-934,British Grand Prix,2015,Silverstone Circuit,Alpine F1 Team,GRO,12,30,OTHER
+934,British Grand Prix,2015,Silverstone Circuit,AlphaTauri,SAI,8,0,VER
+934,British Grand Prix,2015,Silverstone Circuit,Red Bull,RIC,10,0,OTHER
+934,British Grand Prix,2015,Silverstone Circuit,AlphaTauri,VER,13,0,SAI
+934,British Grand Prix,2015,Silverstone Circuit,Alpine F1 Team,GRO,12,0,OTHER
 936,Hungarian Grand Prix,2015,Hungaroring,Ferrari,VET,3,1,RAI
 936,Hungarian Grand Prix,2015,Hungaroring,Red Bull,RIC,4,3,OTHER
 936,Hungarian Grand Prix,2015,Hungaroring,AlphaTauri,VER,9,4,SAI
@@ -566,10 +566,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 936,Hungarian Grand Prix,2015,Hungaroring,Mercedes,HAM,1,6,OTHER
 936,Hungarian Grand Prix,2015,Hungaroring,Alpine F1 Team,GRO,10,7,OTHER
 936,Hungarian Grand Prix,2015,Hungaroring,Williams,BOT,6,13,OTHER
-936,Hungarian Grand Prix,2015,Hungaroring,AlphaTauri,SAI,12,30,VER
-936,Hungarian Grand Prix,2015,Hungaroring,Ferrari,RAI,5,30,VET
-936,Hungarian Grand Prix,2015,Hungaroring,Aston Martin,PER,13,30,HUL
-936,Hungarian Grand Prix,2015,Hungaroring,Aston Martin,HUL,11,30,PER
+936,Hungarian Grand Prix,2015,Hungaroring,AlphaTauri,SAI,12,0,VER
+936,Hungarian Grand Prix,2015,Hungaroring,Ferrari,RAI,5,0,VET
+936,Hungarian Grand Prix,2015,Hungaroring,Aston Martin,PER,13,0,HUL
+936,Hungarian Grand Prix,2015,Hungaroring,Aston Martin,HUL,11,0,PER
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Mercedes,HAM,1,1,OTHER
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Alpine F1 Team,GRO,9,3,OTHER
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Aston Martin,PER,4,5,HUL
@@ -578,9 +578,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Williams,BOT,3,9,OTHER
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Ferrari,VET,8,12,RAI
 937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,McLaren,ALO,20,13,OTHER
-937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,AlphaTauri,SAI,10,30,VER
-937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Red Bull,RIC,5,30,OTHER
-937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Aston Martin,HUL,11,30,PER
+937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,AlphaTauri,SAI,10,0,VER
+937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Red Bull,RIC,5,0,OTHER
+937,Belgian Grand Prix,2015,Circuit de Spa-Francorchamps,Aston Martin,HUL,11,0,PER
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,Mercedes,HAM,1,1,OTHER
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,Ferrari,VET,3,2,RAI
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,Williams,BOT,6,4,OTHER
@@ -591,7 +591,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,AlphaTauri,SAI,17,11,VER
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,AlphaTauri,VER,20,12,SAI
 938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,McLaren,ALO,16,18,OTHER
-938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,Alpine F1 Team,GRO,8,30,OTHER
+938,Italian Grand Prix,2015,Autodromo Nazionale di Monza,Alpine F1 Team,GRO,8,0,OTHER
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Ferrari,VET,1,1,RAI
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Red Bull,RIC,2,2,OTHER
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Ferrari,RAI,3,3,VET
@@ -600,9 +600,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,AlphaTauri,VER,8,8,SAI
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,AlphaTauri,SAI,14,9,VER
 939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Alpine F1 Team,GRO,10,13,OTHER
-939,Singapore Grand Prix,2015,Marina Bay Street Circuit,McLaren,ALO,12,30,OTHER
-939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Mercedes,HAM,5,30,OTHER
-939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Aston Martin,HUL,11,30,PER
+939,Singapore Grand Prix,2015,Marina Bay Street Circuit,McLaren,ALO,12,0,OTHER
+939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Mercedes,HAM,5,0,OTHER
+939,Singapore Grand Prix,2015,Marina Bay Street Circuit,Aston Martin,HUL,11,0,PER
 940,Japanese Grand Prix,2015,Suzuka Circuit,Mercedes,HAM,2,1,OTHER
 940,Japanese Grand Prix,2015,Suzuka Circuit,Ferrari,VET,4,3,RAI
 940,Japanese Grand Prix,2015,Suzuka Circuit,Ferrari,RAI,6,4,VET
@@ -621,10 +621,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 942,United States Grand Prix,2015,Circuit of the Americas,AlphaTauri,SAI,20,7,VER
 942,United States Grand Prix,2015,Circuit of the Americas,Red Bull,RIC,3,10,OTHER
 942,United States Grand Prix,2015,Circuit of the Americas,McLaren,ALO,9,11,OTHER
-942,United States Grand Prix,2015,Circuit of the Americas,Aston Martin,HUL,6,30,PER
-942,United States Grand Prix,2015,Circuit of the Americas,Ferrari,RAI,18,30,VET
-942,United States Grand Prix,2015,Circuit of the Americas,Alpine F1 Team,GRO,10,30,OTHER
-942,United States Grand Prix,2015,Circuit of the Americas,Williams,BOT,16,30,OTHER
+942,United States Grand Prix,2015,Circuit of the Americas,Aston Martin,HUL,6,0,PER
+942,United States Grand Prix,2015,Circuit of the Americas,Ferrari,RAI,18,0,VET
+942,United States Grand Prix,2015,Circuit of the Americas,Alpine F1 Team,GRO,10,0,OTHER
+942,United States Grand Prix,2015,Circuit of the Americas,Williams,BOT,16,0,OTHER
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Mercedes,HAM,2,2,OTHER
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Williams,BOT,6,3,OTHER
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Red Bull,RIC,5,5,OTHER
@@ -633,9 +633,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,AlphaTauri,VER,8,9,SAI
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Alpine F1 Team,GRO,12,10,OTHER
 943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,AlphaTauri,SAI,11,13,VER
-943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Ferrari,VET,3,30,RAI
-943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Ferrari,RAI,19,30,VET
-943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,McLaren,ALO,18,30,OTHER
+943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Ferrari,VET,3,0,RAI
+943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,Ferrari,RAI,19,0,VET
+943,Mexican Grand Prix,2015,Autódromo Hermanos Rodríguez,McLaren,ALO,18,0,OTHER
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,Mercedes,HAM,2,2,OTHER
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,Ferrari,VET,3,3,RAI
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,Ferrari,RAI,4,4,VET
@@ -646,7 +646,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,Red Bull,RIC,19,11,OTHER
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,Aston Martin,PER,11,12,HUL
 944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,McLaren,ALO,20,15,OTHER
-944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,AlphaTauri,SAI,10,30,VER
+944,Brazilian Grand Prix,2015,Autódromo José Carlos Pace,AlphaTauri,SAI,10,0,VER
 945,Abu Dhabi Grand Prix,2015,Yas Marina Circuit,Mercedes,HAM,2,2,OTHER
 945,Abu Dhabi Grand Prix,2015,Yas Marina Circuit,Ferrari,RAI,3,3,VET
 945,Abu Dhabi Grand Prix,2015,Yas Marina Circuit,Ferrari,VET,15,4,RAI
@@ -668,8 +668,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,AlphaTauri,VER,5,10,SAI
 948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,Alpine F1 Team,MAG,14,12,OTHER
 948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,Aston Martin,PER,9,13,HUL
-948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,Ferrari,RAI,4,30,VET
-948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,McLaren,ALO,11,30,OTHER
+948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,Ferrari,RAI,4,0,VET
+948,Australian Grand Prix,2016,Albert Park Grand Prix Circuit,McLaren,ALO,11,0,OTHER
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Ferrari,RAI,4,2,VET
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Mercedes,HAM,1,3,OTHER
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Red Bull,RIC,5,4,OTHER
@@ -679,8 +679,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Alpine F1 Team,MAG,22,11,OTHER
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Aston Martin,HUL,8,15,PER
 949,Bahrain Grand Prix,2016,Bahrain International Circuit,Aston Martin,PER,18,16,HUL
-949,Bahrain Grand Prix,2016,Bahrain International Circuit,AlphaTauri,SAI,11,30,VER
-949,Bahrain Grand Prix,2016,Bahrain International Circuit,Ferrari,VET,3,30,RAI
+949,Bahrain Grand Prix,2016,Bahrain International Circuit,AlphaTauri,SAI,11,0,VER
+949,Bahrain Grand Prix,2016,Bahrain International Circuit,Ferrari,VET,3,0,RAI
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Red Bull,VER,4,1,RIC
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Ferrari,RAI,5,2,VET
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Ferrari,VET,6,3,RAI
@@ -689,10 +689,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,AlphaTauri,SAI,8,6,OTHER
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Aston Martin,PER,9,7,HUL
 952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Alpine F1 Team,MAG,15,14,OTHER
-952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,14,30,OTHER
-952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,McLaren,ALO,10,30,OTHER
-952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Aston Martin,HUL,11,30,PER
-952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,30,OTHER
+952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,14,0,OTHER
+952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,McLaren,ALO,10,0,OTHER
+952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Aston Martin,HUL,11,0,PER
+952,Spanish Grand Prix,2016,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,0,OTHER
 953,Monaco Grand Prix,2016,Circuit de Monaco,Mercedes,HAM,3,1,OTHER
 953,Monaco Grand Prix,2016,Circuit de Monaco,Red Bull,RIC,1,2,VER
 953,Monaco Grand Prix,2016,Circuit de Monaco,Aston Martin,PER,7,3,HUL
@@ -702,9 +702,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 953,Monaco Grand Prix,2016,Circuit de Monaco,AlphaTauri,SAI,6,8,OTHER
 953,Monaco Grand Prix,2016,Circuit de Monaco,Williams,BOT,10,12,OTHER
 953,Monaco Grand Prix,2016,Circuit de Monaco,Haas F1 Team,GRO,15,13,OTHER
-953,Monaco Grand Prix,2016,Circuit de Monaco,Red Bull,VER,30,30,RIC
-953,Monaco Grand Prix,2016,Circuit de Monaco,Alpine F1 Team,MAG,16,30,OTHER
-953,Monaco Grand Prix,2016,Circuit de Monaco,Ferrari,RAI,11,30,VET
+953,Monaco Grand Prix,2016,Circuit de Monaco,Red Bull,VER,0,0,RIC
+953,Monaco Grand Prix,2016,Circuit de Monaco,Alpine F1 Team,MAG,16,0,OTHER
+953,Monaco Grand Prix,2016,Circuit de Monaco,Ferrari,RAI,11,0,VET
 954,Canadian Grand Prix,2016,Circuit Gilles Villeneuve,Mercedes,HAM,1,1,OTHER
 954,Canadian Grand Prix,2016,Circuit Gilles Villeneuve,Ferrari,VET,3,2,RAI
 954,Canadian Grand Prix,2016,Circuit Gilles Villeneuve,Williams,BOT,7,3,OTHER
@@ -727,8 +727,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 955,European Grand Prix,2016,Baku City Circuit,Aston Martin,HUL,12,9,PER
 955,European Grand Prix,2016,Baku City Circuit,Haas F1 Team,GRO,11,13,OTHER
 955,European Grand Prix,2016,Baku City Circuit,Alpine F1 Team,MAG,22,14,OTHER
-955,European Grand Prix,2016,Baku City Circuit,McLaren,ALO,13,30,OTHER
-955,European Grand Prix,2016,Baku City Circuit,AlphaTauri,SAI,18,30,OTHER
+955,European Grand Prix,2016,Baku City Circuit,McLaren,ALO,13,0,OTHER
+955,European Grand Prix,2016,Baku City Circuit,AlphaTauri,SAI,18,0,OTHER
 956,Austrian Grand Prix,2016,Red Bull Ring,Mercedes,HAM,1,1,OTHER
 956,Austrian Grand Prix,2016,Red Bull Ring,Red Bull,VER,8,2,RIC
 956,Austrian Grand Prix,2016,Red Bull Ring,Ferrari,RAI,4,3,VET
@@ -740,7 +740,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 956,Austrian Grand Prix,2016,Red Bull Ring,Aston Martin,PER,16,17,HUL
 956,Austrian Grand Prix,2016,Red Bull Ring,McLaren,ALO,14,18,OTHER
 956,Austrian Grand Prix,2016,Red Bull Ring,Aston Martin,HUL,2,19,PER
-956,Austrian Grand Prix,2016,Red Bull Ring,Ferrari,VET,9,30,RAI
+956,Austrian Grand Prix,2016,Red Bull Ring,Ferrari,VET,9,0,RAI
 957,British Grand Prix,2016,Silverstone Circuit,Mercedes,HAM,1,1,OTHER
 957,British Grand Prix,2016,Silverstone Circuit,Red Bull,VER,3,2,RIC
 957,British Grand Prix,2016,Silverstone Circuit,Red Bull,RIC,4,4,VER
@@ -752,7 +752,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 957,British Grand Prix,2016,Silverstone Circuit,McLaren,ALO,9,13,OTHER
 957,British Grand Prix,2016,Silverstone Circuit,Williams,BOT,6,14,OTHER
 957,British Grand Prix,2016,Silverstone Circuit,Alpine F1 Team,MAG,16,17,OTHER
-957,British Grand Prix,2016,Silverstone Circuit,Haas F1 Team,GRO,13,30,OTHER
+957,British Grand Prix,2016,Silverstone Circuit,Haas F1 Team,GRO,13,0,OTHER
 958,Hungarian Grand Prix,2016,Hungaroring,Mercedes,HAM,2,1,OTHER
 958,Hungarian Grand Prix,2016,Hungaroring,Red Bull,RIC,3,3,VER
 958,Hungarian Grand Prix,2016,Hungaroring,Ferrari,VET,5,4,RAI
@@ -775,8 +775,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,Ferrari,RAI,3,9,VET
 960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,Red Bull,VER,2,11,RIC
 960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,Haas F1 Team,GRO,11,13,OTHER
-960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,Alpine F1 Team,MAG,12,30,OTHER
-960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,AlphaTauri,SAI,14,30,OTHER
+960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,Alpine F1 Team,MAG,12,0,OTHER
+960,Belgian Grand Prix,2016,Circuit de Spa-Francorchamps,AlphaTauri,SAI,14,0,OTHER
 961,Italian Grand Prix,2016,Autodromo Nazionale di Monza,Mercedes,HAM,1,2,OTHER
 961,Italian Grand Prix,2016,Autodromo Nazionale di Monza,Ferrari,VET,3,3,RAI
 961,Italian Grand Prix,2016,Autodromo Nazionale di Monza,Ferrari,RAI,4,4,VET
@@ -798,9 +798,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Aston Martin,PER,17,8,HUL
 962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Alpine F1 Team,MAG,15,10,OTHER
 962,Singapore Grand Prix,2016,Marina Bay Street Circuit,AlphaTauri,SAI,6,14,OTHER
-962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Williams,BOT,10,30,OTHER
-962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Aston Martin,HUL,8,30,PER
-962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Haas F1 Team,GRO,20,30,OTHER
+962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Williams,BOT,10,0,OTHER
+962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Aston Martin,HUL,8,0,PER
+962,Singapore Grand Prix,2016,Marina Bay Street Circuit,Haas F1 Team,GRO,20,0,OTHER
 964,Japanese Grand Prix,2016,Suzuka Circuit,Red Bull,VER,3,2,RIC
 964,Japanese Grand Prix,2016,Suzuka Circuit,Mercedes,HAM,2,3,OTHER
 964,Japanese Grand Prix,2016,Suzuka Circuit,Ferrari,VET,6,4,RAI
@@ -822,9 +822,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 965,United States Grand Prix,2016,Circuit of the Americas,Haas F1 Team,GRO,17,10,OTHER
 965,United States Grand Prix,2016,Circuit of the Americas,Alpine F1 Team,MAG,18,12,OTHER
 965,United States Grand Prix,2016,Circuit of the Americas,Williams,BOT,8,16,OTHER
-965,United States Grand Prix,2016,Circuit of the Americas,Ferrari,RAI,5,30,VET
-965,United States Grand Prix,2016,Circuit of the Americas,Red Bull,VER,4,30,RIC
-965,United States Grand Prix,2016,Circuit of the Americas,Aston Martin,HUL,7,30,PER
+965,United States Grand Prix,2016,Circuit of the Americas,Ferrari,RAI,5,0,VET
+965,United States Grand Prix,2016,Circuit of the Americas,Red Bull,VER,4,0,RIC
+965,United States Grand Prix,2016,Circuit of the Americas,Aston Martin,HUL,7,0,PER
 966,Mexican Grand Prix,2016,Autódromo Hermanos Rodríguez,Mercedes,HAM,1,1,OTHER
 966,Mexican Grand Prix,2016,Autódromo Hermanos Rodríguez,Red Bull,RIC,4,3,VER
 966,Mexican Grand Prix,2016,Autódromo Hermanos Rodríguez,Red Bull,VER,3,4,RIC
@@ -847,8 +847,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,McLaren,ALO,10,10,OTHER
 967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Williams,BOT,11,11,OTHER
 967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Alpine F1 Team,MAG,18,14,OTHER
-967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Ferrari,RAI,3,30,VET
-967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Haas F1 Team,GRO,7,30,OTHER
+967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Ferrari,RAI,3,0,VET
+967,Brazilian Grand Prix,2016,Autódromo José Carlos Pace,Haas F1 Team,GRO,7,0,OTHER
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Mercedes,HAM,1,1,OTHER
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Ferrari,VET,5,3,RAI
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Red Bull,VER,6,4,RIC
@@ -858,9 +858,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Aston Martin,PER,8,8,HUL
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,McLaren,ALO,9,10,OTHER
 968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Haas F1 Team,GRO,14,11,OTHER
-968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,AlphaTauri,SAI,21,30,OTHER
-968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Williams,BOT,11,30,OTHER
-968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Alpine F1 Team,MAG,18,30,OTHER
+968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,AlphaTauri,SAI,21,0,OTHER
+968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Williams,BOT,11,0,OTHER
+968,Abu Dhabi Grand Prix,2016,Yas Marina Circuit,Alpine F1 Team,MAG,18,0,OTHER
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Ferrari,VET,2,1,RAI
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Mercedes,HAM,1,2,BOT
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Mercedes,BOT,3,3,HAM
@@ -870,11 +870,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,AlphaTauri,SAI,8,8,OTHER
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Aston Martin,OCO,13,10,PER
 969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Alpine F1 Team,HUL,11,11,OTHER
-969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,McLaren,ALO,12,30,OTHER
-969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,17,30,GRO
-969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Williams,STR,20,30,OTHER
-969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Red Bull,RIC,30,30,VER
-969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,30,MAG
+969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,McLaren,ALO,12,0,OTHER
+969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,17,0,GRO
+969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Williams,STR,20,0,OTHER
+969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Red Bull,RIC,0,0,VER
+969,Australian Grand Prix,2017,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,0,MAG
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,Ferrari,VET,3,1,RAI
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,Mercedes,HAM,2,2,BOT
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,Mercedes,BOT,1,3,HAM
@@ -885,10 +885,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,Alpine F1 Team,HUL,7,9,OTHER
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,Aston Martin,OCO,14,10,PER
 971,Bahrain Grand Prix,2017,Bahrain International Circuit,McLaren,ALO,15,14,OTHER
-971,Bahrain Grand Prix,2017,Bahrain International Circuit,AlphaTauri,SAI,16,30,OTHER
-971,Bahrain Grand Prix,2017,Bahrain International Circuit,Williams,STR,12,30,OTHER
-971,Bahrain Grand Prix,2017,Bahrain International Circuit,Red Bull,VER,6,30,RIC
-971,Bahrain Grand Prix,2017,Bahrain International Circuit,Haas F1 Team,MAG,20,30,GRO
+971,Bahrain Grand Prix,2017,Bahrain International Circuit,AlphaTauri,SAI,16,0,OTHER
+971,Bahrain Grand Prix,2017,Bahrain International Circuit,Williams,STR,12,0,OTHER
+971,Bahrain Grand Prix,2017,Bahrain International Circuit,Red Bull,VER,6,0,RIC
+971,Bahrain Grand Prix,2017,Bahrain International Circuit,Haas F1 Team,MAG,20,0,GRO
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,1,BOT
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Ferrari,VET,2,2,RAI
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Red Bull,RIC,6,3,VER
@@ -900,9 +900,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,McLaren,ALO,7,12,OTHER
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Haas F1 Team,MAG,11,14,GRO
 973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Williams,STR,18,16,OTHER
-973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Mercedes,BOT,3,30,HAM
-973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Red Bull,VER,5,30,RIC
-973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Ferrari,RAI,4,30,VET
+973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Mercedes,BOT,3,0,HAM
+973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Red Bull,VER,5,0,RIC
+973,Spanish Grand Prix,2017,Circuit de Barcelona-Catalunya,Ferrari,RAI,4,0,VET
 974,Monaco Grand Prix,2017,Circuit de Monaco,Ferrari,VET,2,1,RAI
 974,Monaco Grand Prix,2017,Circuit de Monaco,Ferrari,RAI,1,2,VET
 974,Monaco Grand Prix,2017,Circuit de Monaco,Red Bull,RIC,5,3,VER
@@ -915,7 +915,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 974,Monaco Grand Prix,2017,Circuit de Monaco,Aston Martin,OCO,15,12,PER
 974,Monaco Grand Prix,2017,Circuit de Monaco,Aston Martin,PER,7,13,OCO
 974,Monaco Grand Prix,2017,Circuit de Monaco,Williams,STR,17,15,OTHER
-974,Monaco Grand Prix,2017,Circuit de Monaco,Alpine F1 Team,HUL,10,30,OTHER
+974,Monaco Grand Prix,2017,Circuit de Monaco,Alpine F1 Team,HUL,10,0,OTHER
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Mercedes,HAM,1,1,BOT
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Mercedes,BOT,3,2,HAM
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Red Bull,RIC,6,3,VER
@@ -928,8 +928,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Haas F1 Team,GRO,14,10,MAG
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Haas F1 Team,MAG,18,12,GRO
 975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,McLaren,ALO,12,16,OTHER
-975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Red Bull,VER,5,30,RIC
-975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,AlphaTauri,SAI,13,30,OTHER
+975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,Red Bull,VER,5,0,RIC
+975,Canadian Grand Prix,2017,Circuit Gilles Villeneuve,AlphaTauri,SAI,13,0,OTHER
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,Red Bull,RIC,10,1,VER
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,Mercedes,BOT,2,2,HAM
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,Williams,STR,8,3,OTHER
@@ -941,10 +941,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,McLaren,ALO,19,9,OTHER
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,Haas F1 Team,GRO,16,13,MAG
 976,Azerbaijan Grand Prix,2017,Baku City Circuit,Ferrari,RAI,3,14,VET
-976,Azerbaijan Grand Prix,2017,Baku City Circuit,Aston Martin,PER,6,30,OCO
-976,Azerbaijan Grand Prix,2017,Baku City Circuit,Alpine F1 Team,HUL,13,30,OTHER
-976,Azerbaijan Grand Prix,2017,Baku City Circuit,Red Bull,VER,5,30,RIC
-846,Monaco Grand Prix,2011,Circuit de Monaco,Alfa Romeo,PER,30,30,OTHER
+976,Azerbaijan Grand Prix,2017,Baku City Circuit,Aston Martin,PER,6,0,OCO
+976,Azerbaijan Grand Prix,2017,Baku City Circuit,Alpine F1 Team,HUL,13,0,OTHER
+976,Azerbaijan Grand Prix,2017,Baku City Circuit,Red Bull,VER,5,0,RIC
+846,Monaco Grand Prix,2011,Circuit de Monaco,Alfa Romeo,PER,0,0,OTHER
 977,Austrian Grand Prix,2017,Red Bull Ring,Mercedes,BOT,1,1,HAM
 977,Austrian Grand Prix,2017,Red Bull Ring,Ferrari,VET,2,2,RAI
 977,Austrian Grand Prix,2017,Red Bull Ring,Red Bull,RIC,4,3,VER
@@ -955,10 +955,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 977,Austrian Grand Prix,2017,Red Bull Ring,Aston Martin,OCO,9,8,PER
 977,Austrian Grand Prix,2017,Red Bull Ring,Williams,STR,18,10,OTHER
 977,Austrian Grand Prix,2017,Red Bull Ring,Alpine F1 Team,HUL,11,13,OTHER
-977,Austrian Grand Prix,2017,Red Bull Ring,AlphaTauri,SAI,10,30,OTHER
-977,Austrian Grand Prix,2017,Red Bull Ring,Haas F1 Team,MAG,15,30,GRO
-977,Austrian Grand Prix,2017,Red Bull Ring,McLaren,ALO,12,30,OTHER
-977,Austrian Grand Prix,2017,Red Bull Ring,Red Bull,VER,5,30,RIC
+977,Austrian Grand Prix,2017,Red Bull Ring,AlphaTauri,SAI,10,0,OTHER
+977,Austrian Grand Prix,2017,Red Bull Ring,Haas F1 Team,MAG,15,0,GRO
+977,Austrian Grand Prix,2017,Red Bull Ring,McLaren,ALO,12,0,OTHER
+977,Austrian Grand Prix,2017,Red Bull Ring,Red Bull,VER,5,0,RIC
 978,British Grand Prix,2017,Silverstone Circuit,Mercedes,HAM,1,1,BOT
 978,British Grand Prix,2017,Silverstone Circuit,Mercedes,BOT,9,2,HAM
 978,British Grand Prix,2017,Silverstone Circuit,Ferrari,RAI,2,3,VET
@@ -971,8 +971,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 978,British Grand Prix,2017,Silverstone Circuit,Haas F1 Team,MAG,16,12,GRO
 978,British Grand Prix,2017,Silverstone Circuit,Haas F1 Team,GRO,10,13,MAG
 978,British Grand Prix,2017,Silverstone Circuit,Williams,STR,15,16,OTHER
-978,British Grand Prix,2017,Silverstone Circuit,McLaren,ALO,20,30,OTHER
-978,British Grand Prix,2017,Silverstone Circuit,AlphaTauri,SAI,13,30,OTHER
+978,British Grand Prix,2017,Silverstone Circuit,McLaren,ALO,20,0,OTHER
+978,British Grand Prix,2017,Silverstone Circuit,AlphaTauri,SAI,13,0,OTHER
 979,Hungarian Grand Prix,2017,Hungaroring,Ferrari,VET,1,1,RAI
 979,Hungarian Grand Prix,2017,Hungaroring,Ferrari,RAI,2,2,VET
 979,Hungarian Grand Prix,2017,Hungaroring,Mercedes,BOT,3,3,HAM
@@ -985,8 +985,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 979,Hungarian Grand Prix,2017,Hungaroring,Haas F1 Team,MAG,15,13,GRO
 979,Hungarian Grand Prix,2017,Hungaroring,Williams,STR,17,14,OTHER
 979,Hungarian Grand Prix,2017,Hungaroring,Alpine F1 Team,HUL,12,17,OTHER
-979,Hungarian Grand Prix,2017,Hungaroring,Haas F1 Team,GRO,14,30,MAG
-979,Hungarian Grand Prix,2017,Hungaroring,Red Bull,RIC,6,30,VER
+979,Hungarian Grand Prix,2017,Hungaroring,Haas F1 Team,GRO,14,0,MAG
+979,Hungarian Grand Prix,2017,Hungaroring,Red Bull,RIC,6,0,VER
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Mercedes,HAM,1,1,BOT
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Ferrari,VET,2,2,RAI
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Red Bull,RIC,6,3,VER
@@ -999,8 +999,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Williams,STR,15,11,OTHER
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Haas F1 Team,MAG,12,15,GRO
 980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Aston Martin,PER,8,17,OCO
-980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,McLaren,ALO,10,30,OTHER
-980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Red Bull,VER,5,30,RIC
+980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,McLaren,ALO,10,0,OTHER
+980,Belgian Grand Prix,2017,Circuit de Spa-Francorchamps,Red Bull,VER,5,0,RIC
 981,Italian Grand Prix,2017,Autodromo Nazionale di Monza,Mercedes,HAM,1,1,BOT
 981,Italian Grand Prix,2017,Autodromo Nazionale di Monza,Mercedes,BOT,4,2,HAM
 981,Italian Grand Prix,2017,Autodromo Nazionale di Monza,Ferrari,VET,6,3,RAI
@@ -1023,12 +1023,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Williams,STR,18,8,OTHER
 982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Haas F1 Team,GRO,15,9,MAG
 982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Aston Martin,OCO,14,10,PER
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Haas F1 Team,MAG,16,30,GRO
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Alpine F1 Team,HUL,7,30,OTHER
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,McLaren,ALO,8,30,OTHER
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Ferrari,VET,1,30,RAI
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Red Bull,VER,2,30,RIC
-982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Ferrari,RAI,4,30,VET
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Haas F1 Team,MAG,16,0,GRO
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Alpine F1 Team,HUL,7,0,OTHER
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,McLaren,ALO,8,0,OTHER
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Ferrari,VET,1,0,RAI
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Red Bull,VER,2,0,RIC
+982,Singapore Grand Prix,2017,Marina Bay Street Circuit,Ferrari,RAI,4,0,VET
 984,Japanese Grand Prix,2017,Suzuka Circuit,Mercedes,HAM,1,1,BOT
 984,Japanese Grand Prix,2017,Suzuka Circuit,Red Bull,VER,4,2,RIC
 984,Japanese Grand Prix,2017,Suzuka Circuit,Red Bull,RIC,3,3,VER
@@ -1040,10 +1040,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 984,Japanese Grand Prix,2017,Suzuka Circuit,Haas F1 Team,GRO,13,9,MAG
 984,Japanese Grand Prix,2017,Suzuka Circuit,McLaren,ALO,20,11,OTHER
 984,Japanese Grand Prix,2017,Suzuka Circuit,AlphaTauri,GAS,14,13,SAI
-984,Japanese Grand Prix,2017,Suzuka Circuit,Williams,STR,15,30,OTHER
-984,Japanese Grand Prix,2017,Suzuka Circuit,Alpine F1 Team,HUL,11,30,OTHER
-984,Japanese Grand Prix,2017,Suzuka Circuit,Ferrari,VET,2,30,RAI
-984,Japanese Grand Prix,2017,Suzuka Circuit,AlphaTauri,SAI,19,30,GAS
+984,Japanese Grand Prix,2017,Suzuka Circuit,Williams,STR,15,0,OTHER
+984,Japanese Grand Prix,2017,Suzuka Circuit,Alpine F1 Team,HUL,11,0,OTHER
+984,Japanese Grand Prix,2017,Suzuka Circuit,Ferrari,VET,2,0,RAI
+984,Japanese Grand Prix,2017,Suzuka Circuit,AlphaTauri,SAI,19,0,GAS
 985,United States Grand Prix,2017,Circuit of the Americas,Mercedes,HAM,1,1,BOT
 985,United States Grand Prix,2017,Circuit of the Americas,Ferrari,VET,2,2,RAI
 985,United States Grand Prix,2017,Circuit of the Americas,Ferrari,RAI,5,3,VET
@@ -1055,9 +1055,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 985,United States Grand Prix,2017,Circuit of the Americas,Williams,STR,15,11,OTHER
 985,United States Grand Prix,2017,Circuit of the Americas,Haas F1 Team,GRO,12,14,MAG
 985,United States Grand Prix,2017,Circuit of the Americas,Haas F1 Team,MAG,17,16,GRO
-985,United States Grand Prix,2017,Circuit of the Americas,McLaren,ALO,8,30,OTHER
-985,United States Grand Prix,2017,Circuit of the Americas,Red Bull,RIC,4,30,VER
-985,United States Grand Prix,2017,Circuit of the Americas,Alpine F1 Team,HUL,18,30,SAI
+985,United States Grand Prix,2017,Circuit of the Americas,McLaren,ALO,8,0,OTHER
+985,United States Grand Prix,2017,Circuit of the Americas,Red Bull,RIC,4,0,VER
+985,United States Grand Prix,2017,Circuit of the Americas,Alpine F1 Team,HUL,18,0,SAI
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Red Bull,VER,2,1,RIC
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Mercedes,BOT,4,2,HAM
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Ferrari,RAI,5,3,VET
@@ -1070,9 +1070,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,McLaren,ALO,18,10,OTHER
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,AlphaTauri,GAS,20,13,OTHER
 986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Haas F1 Team,GRO,15,15,MAG
-986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Alpine F1 Team,SAI,8,30,HUL
-986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Alpine F1 Team,HUL,7,30,SAI
-986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Red Bull,RIC,16,30,VER
+986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Alpine F1 Team,SAI,8,0,HUL
+986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Alpine F1 Team,HUL,7,0,SAI
+986,Mexican Grand Prix,2017,Autódromo Hermanos Rodríguez,Red Bull,RIC,16,0,VER
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Ferrari,VET,2,1,RAI
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Mercedes,BOT,1,2,HAM
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Ferrari,RAI,3,3,VET
@@ -1086,8 +1086,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,AlphaTauri,GAS,19,12,OTHER
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Haas F1 Team,GRO,11,15,MAG
 987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Williams,STR,16,16,OTHER
-987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Aston Martin,OCO,10,30,PER
-987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Haas F1 Team,MAG,13,30,GRO
+987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Aston Martin,OCO,10,0,PER
+987,Brazilian Grand Prix,2017,Autódromo José Carlos Pace,Haas F1 Team,MAG,13,0,GRO
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Mercedes,BOT,1,1,HAM
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Mercedes,HAM,2,2,BOT
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Ferrari,VET,3,3,RAI
@@ -1101,8 +1101,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Haas F1 Team,MAG,14,13,GRO
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,AlphaTauri,GAS,17,16,OTHER
 988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Williams,STR,15,18,OTHER
-988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Alpine F1 Team,SAI,12,30,HUL
-988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Red Bull,RIC,4,30,VER
+988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Alpine F1 Team,SAI,12,0,HUL
+988,Abu Dhabi Grand Prix,2017,Yas Marina Circuit,Red Bull,RIC,4,0,VER
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Ferrari,VET,3,1,RAI
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Mercedes,HAM,1,2,BOT
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Ferrari,RAI,2,3,VET
@@ -1116,9 +1116,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Aston Martin,OCO,14,12,PER
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Alfa Romeo,LEC,18,13,OTHER
 989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Williams,STR,13,14,OTHER
-989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,30,MAG
-989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,5,30,GRO
-989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,AlphaTauri,GAS,20,30,OTHER
+989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,0,MAG
+989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,5,0,GRO
+989,Australian Grand Prix,2018,Albert Park Grand Prix Circuit,AlphaTauri,GAS,20,0,OTHER
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Ferrari,VET,1,1,RAI
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Mercedes,BOT,3,2,HAM
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Mercedes,HAM,9,3,BOT
@@ -1132,9 +1132,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Haas F1 Team,GRO,16,13,MAG
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Williams,STR,20,14,OTHER
 990,Bahrain Grand Prix,2018,Bahrain International Circuit,Aston Martin,PER,12,16,OCO
-990,Bahrain Grand Prix,2018,Bahrain International Circuit,Ferrari,RAI,2,30,VET
-990,Bahrain Grand Prix,2018,Bahrain International Circuit,Red Bull,VER,15,30,RIC
-990,Bahrain Grand Prix,2018,Bahrain International Circuit,Red Bull,RIC,4,30,VER
+990,Bahrain Grand Prix,2018,Bahrain International Circuit,Ferrari,RAI,2,0,VET
+990,Bahrain Grand Prix,2018,Bahrain International Circuit,Red Bull,VER,15,0,RIC
+990,Bahrain Grand Prix,2018,Bahrain International Circuit,Red Bull,RIC,4,0,VER
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,Mercedes,HAM,2,1,BOT
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,Ferrari,RAI,6,2,VET
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,Aston Martin,PER,8,3,OCO
@@ -1145,12 +1145,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,Williams,STR,10,8,OTHER
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,AlphaTauri,GAS,17,12,OTHER
 992,Azerbaijan Grand Prix,2018,Baku City Circuit,Haas F1 Team,MAG,15,13,GRO
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Mercedes,BOT,3,30,HAM
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Haas F1 Team,GRO,20,30,MAG
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Red Bull,VER,5,30,RIC
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Red Bull,RIC,4,30,VER
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Alpine F1 Team,HUL,14,30,SAI
-992,Azerbaijan Grand Prix,2018,Baku City Circuit,Aston Martin,OCO,7,30,PER
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Mercedes,BOT,3,0,HAM
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Haas F1 Team,GRO,20,0,MAG
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Red Bull,VER,5,0,RIC
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Red Bull,RIC,4,0,VER
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Alpine F1 Team,HUL,14,0,SAI
+992,Azerbaijan Grand Prix,2018,Baku City Circuit,Aston Martin,OCO,7,0,PER
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,1,BOT
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Mercedes,BOT,2,2,HAM
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Red Bull,VER,5,3,RIC
@@ -1162,11 +1162,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Aston Martin,PER,15,9,OCO
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Alfa Romeo,LEC,14,10,OTHER
 993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Williams,STR,18,11,OTHER
-993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Aston Martin,OCO,13,30,PER
-993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Ferrari,RAI,4,30,VET
-993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,10,30,MAG
-993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,AlphaTauri,GAS,12,30,OTHER
-993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Alpine F1 Team,HUL,16,30,SAI
+993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Aston Martin,OCO,13,0,PER
+993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Ferrari,RAI,4,0,VET
+993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,10,0,MAG
+993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,AlphaTauri,GAS,12,0,OTHER
+993,Spanish Grand Prix,2018,Circuit de Barcelona-Catalunya,Alpine F1 Team,HUL,16,0,SAI
 994,Monaco Grand Prix,2018,Circuit de Monaco,Red Bull,RIC,1,1,VER
 994,Monaco Grand Prix,2018,Circuit de Monaco,Ferrari,VET,2,2,RAI
 994,Monaco Grand Prix,2018,Circuit de Monaco,Mercedes,HAM,3,3,BOT
@@ -1181,8 +1181,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 994,Monaco Grand Prix,2018,Circuit de Monaco,Haas F1 Team,MAG,19,13,GRO
 994,Monaco Grand Prix,2018,Circuit de Monaco,Haas F1 Team,GRO,18,15,MAG
 994,Monaco Grand Prix,2018,Circuit de Monaco,Williams,STR,17,17,OTHER
-994,Monaco Grand Prix,2018,Circuit de Monaco,Alfa Romeo,LEC,14,30,OTHER
-994,Monaco Grand Prix,2018,Circuit de Monaco,McLaren,ALO,7,30,OTHER
+994,Monaco Grand Prix,2018,Circuit de Monaco,Alfa Romeo,LEC,14,0,OTHER
+994,Monaco Grand Prix,2018,Circuit de Monaco,McLaren,ALO,7,0,OTHER
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Ferrari,VET,1,1,RAI
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Mercedes,BOT,2,2,HAM
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Red Bull,VER,3,3,RIC
@@ -1197,8 +1197,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Haas F1 Team,GRO,20,12,MAG
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Haas F1 Team,MAG,11,13,GRO
 995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Aston Martin,PER,10,14,OCO
-995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,McLaren,ALO,14,30,OTHER
-995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Williams,STR,17,30,OTHER
+995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,McLaren,ALO,14,0,OTHER
+995,Canadian Grand Prix,2018,Circuit Gilles Villeneuve,Williams,STR,17,0,OTHER
 997,Austrian Grand Prix,2018,Red Bull Ring,Red Bull,VER,4,1,RIC
 997,Austrian Grand Prix,2018,Red Bull Ring,Ferrari,RAI,3,2,VET
 997,Austrian Grand Prix,2018,Red Bull Ring,Ferrari,VET,6,3,RAI
@@ -1211,10 +1211,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 997,Austrian Grand Prix,2018,Red Bull Ring,AlphaTauri,GAS,12,11,OTHER
 997,Austrian Grand Prix,2018,Red Bull Ring,Alpine F1 Team,SAI,9,12,HUL
 997,Austrian Grand Prix,2018,Red Bull Ring,Williams,STR,14,14,OTHER
-997,Austrian Grand Prix,2018,Red Bull Ring,Mercedes,HAM,2,30,BOT
-997,Austrian Grand Prix,2018,Red Bull Ring,Red Bull,RIC,7,30,VER
-997,Austrian Grand Prix,2018,Red Bull Ring,Mercedes,BOT,1,30,HAM
-997,Austrian Grand Prix,2018,Red Bull Ring,Alpine F1 Team,HUL,10,30,SAI
+997,Austrian Grand Prix,2018,Red Bull Ring,Mercedes,HAM,2,0,BOT
+997,Austrian Grand Prix,2018,Red Bull Ring,Red Bull,RIC,7,0,VER
+997,Austrian Grand Prix,2018,Red Bull Ring,Mercedes,BOT,1,0,HAM
+997,Austrian Grand Prix,2018,Red Bull Ring,Alpine F1 Team,HUL,10,0,SAI
 998,British Grand Prix,2018,Silverstone Circuit,Ferrari,VET,2,1,RAI
 998,British Grand Prix,2018,Silverstone Circuit,Mercedes,HAM,1,2,BOT
 998,British Grand Prix,2018,Silverstone Circuit,Ferrari,RAI,3,3,VET
@@ -1227,10 +1227,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 998,British Grand Prix,2018,Silverstone Circuit,Aston Martin,PER,12,10,OCO
 998,British Grand Prix,2018,Silverstone Circuit,Williams,STR,19,12,OTHER
 998,British Grand Prix,2018,Silverstone Circuit,AlphaTauri,GAS,14,13,OTHER
-998,British Grand Prix,2018,Silverstone Circuit,Red Bull,VER,5,30,RIC
-998,British Grand Prix,2018,Silverstone Circuit,Haas F1 Team,GRO,8,30,MAG
-998,British Grand Prix,2018,Silverstone Circuit,Alpine F1 Team,SAI,16,30,HUL
-998,British Grand Prix,2018,Silverstone Circuit,Alfa Romeo,LEC,9,30,OTHER
+998,British Grand Prix,2018,Silverstone Circuit,Red Bull,VER,5,0,RIC
+998,British Grand Prix,2018,Silverstone Circuit,Haas F1 Team,GRO,8,0,MAG
+998,British Grand Prix,2018,Silverstone Circuit,Alpine F1 Team,SAI,16,0,HUL
+998,British Grand Prix,2018,Silverstone Circuit,Alfa Romeo,LEC,9,0,OTHER
 1000,Hungarian Grand Prix,2018,Hungaroring,Mercedes,HAM,1,1,BOT
 1000,Hungarian Grand Prix,2018,Hungaroring,Ferrari,VET,4,2,RAI
 1000,Hungarian Grand Prix,2018,Hungaroring,Ferrari,RAI,3,3,VET
@@ -1245,8 +1245,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1000,Hungarian Grand Prix,2018,Hungaroring,Aston Martin,OCO,18,13,PER
 1000,Hungarian Grand Prix,2018,Hungaroring,Aston Martin,PER,19,14,OCO
 1000,Hungarian Grand Prix,2018,Hungaroring,Williams,STR,15,17,OTHER
-1000,Hungarian Grand Prix,2018,Hungaroring,Red Bull,VER,7,30,RIC
-1000,Hungarian Grand Prix,2018,Hungaroring,Alfa Romeo,LEC,17,30,OTHER
+1000,Hungarian Grand Prix,2018,Hungaroring,Red Bull,VER,7,0,RIC
+1000,Hungarian Grand Prix,2018,Hungaroring,Alfa Romeo,LEC,17,0,OTHER
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Ferrari,VET,2,1,RAI
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Mercedes,HAM,1,2,BOT
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Red Bull,VER,7,3,RIC
@@ -1258,11 +1258,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,AlphaTauri,GAS,10,9,OTHER
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Alpine F1 Team,SAI,14,11,HUL
 1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Williams,STR,17,13,OTHER
-1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Red Bull,RIC,8,30,VER
-1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Ferrari,RAI,6,30,VET
-1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Alfa Romeo,LEC,12,30,OTHER
-1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,McLaren,ALO,15,30,OTHER
-1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Alpine F1 Team,HUL,20,30,SAI
+1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Red Bull,RIC,8,0,VER
+1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Ferrari,RAI,6,0,VET
+1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Alfa Romeo,LEC,12,0,OTHER
+1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,McLaren,ALO,15,0,OTHER
+1001,Belgian Grand Prix,2018,Circuit de Spa-Francorchamps,Alpine F1 Team,HUL,20,0,SAI
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Mercedes,HAM,3,1,BOT
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Ferrari,RAI,1,2,VET
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Mercedes,BOT,4,3,HAM
@@ -1276,9 +1276,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Alpine F1 Team,HUL,20,13,SAI
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,AlphaTauri,GAS,9,14,OTHER
 1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Haas F1 Team,MAG,11,16,GRO
-1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Red Bull,RIC,19,30,VER
-1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,McLaren,ALO,13,30,OTHER
-1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Haas F1 Team,GRO,6,30,MAG
+1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Red Bull,RIC,19,0,VER
+1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,McLaren,ALO,13,0,OTHER
+1002,Italian Grand Prix,2018,Autodromo Nazionale di Monza,Haas F1 Team,GRO,6,0,MAG
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Mercedes,HAM,1,1,BOT
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Red Bull,VER,2,2,RIC
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Ferrari,VET,3,3,RAI
@@ -1294,7 +1294,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Haas F1 Team,GRO,8,15,MAG
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Aston Martin,PER,7,16,OCO
 1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Haas F1 Team,MAG,16,18,GRO
-1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Aston Martin,OCO,9,30,PER
+1003,Singapore Grand Prix,2018,Marina Bay Street Circuit,Aston Martin,OCO,9,0,PER
 1005,Japanese Grand Prix,2018,Suzuka Circuit,Mercedes,HAM,1,1,BOT
 1005,Japanese Grand Prix,2018,Suzuka Circuit,Mercedes,BOT,2,2,HAM
 1005,Japanese Grand Prix,2018,Suzuka Circuit,Red Bull,VER,3,3,RIC
@@ -1308,9 +1308,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1005,Japanese Grand Prix,2018,Suzuka Circuit,AlphaTauri,GAS,7,11,OTHER
 1005,Japanese Grand Prix,2018,Suzuka Circuit,McLaren,ALO,18,14,OTHER
 1005,Japanese Grand Prix,2018,Suzuka Circuit,Williams,STR,14,17,OTHER
-1005,Japanese Grand Prix,2018,Suzuka Circuit,Alfa Romeo,LEC,10,30,OTHER
-1005,Japanese Grand Prix,2018,Suzuka Circuit,Alpine F1 Team,HUL,16,30,SAI
-1005,Japanese Grand Prix,2018,Suzuka Circuit,Haas F1 Team,MAG,12,30,GRO
+1005,Japanese Grand Prix,2018,Suzuka Circuit,Alfa Romeo,LEC,10,0,OTHER
+1005,Japanese Grand Prix,2018,Suzuka Circuit,Alpine F1 Team,HUL,16,0,SAI
+1005,Japanese Grand Prix,2018,Suzuka Circuit,Haas F1 Team,MAG,12,0,GRO
 1006,United States Grand Prix,2018,Circuit of the Americas,Ferrari,RAI,2,1,VET
 1006,United States Grand Prix,2018,Circuit of the Americas,Red Bull,VER,18,2,RIC
 1006,United States Grand Prix,2018,Circuit of the Americas,Mercedes,HAM,1,3,BOT
@@ -1321,12 +1321,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1006,United States Grand Prix,2018,Circuit of the Americas,Aston Martin,PER,10,8,OCO
 1006,United States Grand Prix,2018,Circuit of the Americas,AlphaTauri,GAS,19,12,OTHER
 1006,United States Grand Prix,2018,Circuit of the Americas,Williams,STR,15,14,OTHER
-1006,United States Grand Prix,2018,Circuit of the Americas,Alfa Romeo,LEC,9,30,OTHER
-1006,United States Grand Prix,2018,Circuit of the Americas,Red Bull,RIC,4,30,VER
-1006,United States Grand Prix,2018,Circuit of the Americas,Haas F1 Team,GRO,8,30,MAG
-1006,United States Grand Prix,2018,Circuit of the Americas,McLaren,ALO,13,30,OTHER
-1006,United States Grand Prix,2018,Circuit of the Americas,Aston Martin,OCO,6,30,PER
-1006,United States Grand Prix,2018,Circuit of the Americas,Haas F1 Team,MAG,12,30,GRO
+1006,United States Grand Prix,2018,Circuit of the Americas,Alfa Romeo,LEC,9,0,OTHER
+1006,United States Grand Prix,2018,Circuit of the Americas,Red Bull,RIC,4,0,VER
+1006,United States Grand Prix,2018,Circuit of the Americas,Haas F1 Team,GRO,8,0,MAG
+1006,United States Grand Prix,2018,Circuit of the Americas,McLaren,ALO,13,0,OTHER
+1006,United States Grand Prix,2018,Circuit of the Americas,Aston Martin,OCO,6,0,PER
+1006,United States Grand Prix,2018,Circuit of the Americas,Haas F1 Team,MAG,12,0,GRO
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Red Bull,VER,2,1,RIC
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Ferrari,VET,4,2,RAI
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Ferrari,RAI,6,3,VET
@@ -1339,10 +1339,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Williams,STR,17,12,OTHER
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,16,15,GRO
 1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Haas F1 Team,GRO,18,16,MAG
-1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Red Bull,RIC,1,30,VER
-1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Aston Martin,PER,13,30,OCO
-1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Alpine F1 Team,SAI,8,30,HUL
-1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,McLaren,ALO,12,30,OTHER
+1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Red Bull,RIC,1,0,VER
+1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Aston Martin,PER,13,0,OCO
+1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,Alpine F1 Team,SAI,8,0,HUL
+1007,Mexican Grand Prix,2018,Autódromo Hermanos Rodríguez,McLaren,ALO,12,0,OTHER
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Mercedes,HAM,1,1,BOT
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Red Bull,VER,5,2,RIC
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Ferrari,RAI,4,3,VET
@@ -1358,7 +1358,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Aston Martin,OCO,18,15,PER
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,McLaren,ALO,17,17,OTHER
 1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Williams,STR,19,18,OTHER
-1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Alpine F1 Team,HUL,13,30,SAI
+1008,Brazilian Grand Prix,2018,Autódromo José Carlos Pace,Alpine F1 Team,HUL,13,0,SAI
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Mercedes,HAM,1,1,BOT
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Ferrari,VET,3,2,RAI
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Red Bull,VER,6,3,RIC
@@ -1371,10 +1371,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Haas F1 Team,MAG,13,10,GRO
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,McLaren,ALO,15,11,OTHER
 1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Williams,STR,20,13,OTHER
-1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,AlphaTauri,GAS,17,30,OTHER
-1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Aston Martin,OCO,9,30,PER
-1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Ferrari,RAI,4,30,VET
-1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Alpine F1 Team,HUL,10,30,SAI
+1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,AlphaTauri,GAS,17,0,OTHER
+1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Aston Martin,OCO,9,0,PER
+1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Ferrari,RAI,4,0,VET
+1009,Abu Dhabi Grand Prix,2018,Yas Marina Circuit,Alpine F1 Team,HUL,10,0,SAI
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Mercedes,BOT,2,1,HAM
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Mercedes,HAM,1,2,BOT
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Red Bull,VER,4,3,GAS
@@ -1389,9 +1389,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Aston Martin,PER,10,13,STR
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,AlphaTauri,ALB,13,14,OTHER
 1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Williams,RUS,19,16,OTHER
-1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,30,MAG
-1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Alpine F1 Team,RIC,12,30,HUL
-1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,McLaren,SAI,18,30,NOR
+1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Haas F1 Team,GRO,6,0,MAG
+1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,Alpine F1 Team,RIC,12,0,HUL
+1010,Australian Grand Prix,2019,Albert Park Grand Prix Circuit,McLaren,SAI,18,0,NOR
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Mercedes,HAM,3,1,BOT
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Mercedes,BOT,4,2,HAM
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Ferrari,LEC,1,3,VET
@@ -1405,10 +1405,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Haas F1 Team,MAG,6,13,GRO
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Aston Martin,STR,18,14,PER
 1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Williams,RUS,19,15,OTHER
-1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Alpine F1 Team,HUL,17,30,RIC
-1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Alpine F1 Team,RIC,10,30,HUL
-1011,Bahrain Grand Prix,2019,Bahrain International Circuit,McLaren,SAI,7,30,NOR
-1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Haas F1 Team,GRO,11,30,MAG
+1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Alpine F1 Team,HUL,17,0,RIC
+1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Alpine F1 Team,RIC,10,0,HUL
+1011,Bahrain Grand Prix,2019,Bahrain International Circuit,McLaren,SAI,7,0,NOR
+1011,Bahrain Grand Prix,2019,Bahrain International Circuit,Haas F1 Team,GRO,11,0,MAG
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Mercedes,BOT,1,1,HAM
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Mercedes,HAM,2,2,BOT
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Ferrari,VET,3,3,LEC
@@ -1418,14 +1418,14 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,McLaren,SAI,9,7,NOR
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,McLaren,NOR,7,8,SAI
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Aston Martin,STR,13,9,PER
-1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Alfa Romeo,RAI,30,10,OTHER
+1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Alfa Romeo,RAI,0,10,OTHER
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,AlphaTauri,ALB,11,11,OTHER
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Haas F1 Team,MAG,12,13,GRO
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Alpine F1 Team,HUL,15,14,RIC
 1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Williams,RUS,16,15,OTHER
-1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Red Bull,GAS,30,30,VER
-1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Haas F1 Team,GRO,14,30,MAG
-1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Alpine F1 Team,RIC,10,30,HUL
+1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Red Bull,GAS,0,0,VER
+1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Haas F1 Team,GRO,14,0,MAG
+1013,Azerbaijan Grand Prix,2019,Baku City Circuit,Alpine F1 Team,RIC,10,0,HUL
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Mercedes,HAM,2,1,BOT
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Mercedes,BOT,1,2,HAM
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Red Bull,VER,4,3,GAS
@@ -1437,12 +1437,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,7,10,MAG
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,AlphaTauri,ALB,11,11,OTHER
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Alpine F1 Team,RIC,13,12,HUL
-1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Alpine F1 Team,HUL,30,13,RIC
+1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Alpine F1 Team,HUL,0,13,RIC
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Alfa Romeo,RAI,14,14,OTHER
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Aston Martin,PER,15,15,STR
 1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Williams,RUS,19,17,OTHER
-1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Aston Martin,STR,16,30,PER
-1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,McLaren,NOR,10,30,SAI
+1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,Aston Martin,STR,16,0,PER
+1014,Spanish Grand Prix,2019,Circuit de Barcelona-Catalunya,McLaren,NOR,10,0,SAI
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Mercedes,HAM,1,1,BOT
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Ferrari,VET,4,2,LEC
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Mercedes,BOT,2,3,HAM
@@ -1459,7 +1459,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Williams,RUS,19,15,OTHER
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Aston Martin,STR,17,16,PER
 1015,Monaco Grand Prix,2019,Circuit de Monaco,Alfa Romeo,RAI,14,17,OTHER
-1015,Monaco Grand Prix,2019,Circuit de Monaco,Ferrari,LEC,15,30,VET
+1015,Monaco Grand Prix,2019,Circuit de Monaco,Ferrari,LEC,15,0,VET
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Mercedes,HAM,2,1,BOT
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Ferrari,VET,1,2,LEC
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Ferrari,LEC,3,3,VET
@@ -1474,9 +1474,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Haas F1 Team,GRO,14,14,MAG
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Alfa Romeo,RAI,16,15,OTHER
 1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Williams,RUS,18,16,OTHER
-1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Haas F1 Team,MAG,30,17,GRO
-1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,AlphaTauri,ALB,13,30,OTHER
-1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,McLaren,NOR,8,30,SAI
+1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,Haas F1 Team,MAG,0,17,GRO
+1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,AlphaTauri,ALB,13,0,OTHER
+1016,Canadian Grand Prix,2019,Circuit Gilles Villeneuve,McLaren,NOR,8,0,SAI
 1018,Austrian Grand Prix,2019,Red Bull Ring,Red Bull,VER,2,1,GAS
 1018,Austrian Grand Prix,2019,Red Bull Ring,Ferrari,LEC,1,2,VET
 1018,Austrian Grand Prix,2019,Red Bull Ring,Mercedes,BOT,3,3,HAM
@@ -1492,7 +1492,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1018,Austrian Grand Prix,2019,Red Bull Ring,Aston Martin,STR,14,14,PER
 1018,Austrian Grand Prix,2019,Red Bull Ring,AlphaTauri,ALB,18,15,OTHER
 1018,Austrian Grand Prix,2019,Red Bull Ring,Haas F1 Team,GRO,11,16,MAG
-1018,Austrian Grand Prix,2019,Red Bull Ring,Williams,RUS,30,18,OTHER
+1018,Austrian Grand Prix,2019,Red Bull Ring,Williams,RUS,0,18,OTHER
 1018,Austrian Grand Prix,2019,Red Bull Ring,Haas F1 Team,MAG,10,19,GRO
 1019,British Grand Prix,2019,Silverstone Circuit,Mercedes,HAM,2,1,BOT
 1019,British Grand Prix,2019,Silverstone Circuit,Mercedes,BOT,1,2,HAM
@@ -1509,8 +1509,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1019,British Grand Prix,2019,Silverstone Circuit,Williams,RUS,19,14,OTHER
 1019,British Grand Prix,2019,Silverstone Circuit,Ferrari,VET,6,16,LEC
 1019,British Grand Prix,2019,Silverstone Circuit,Aston Martin,PER,15,17,STR
-1019,British Grand Prix,2019,Silverstone Circuit,Haas F1 Team,GRO,14,30,MAG
-1019,British Grand Prix,2019,Silverstone Circuit,Haas F1 Team,MAG,16,30,GRO
+1019,British Grand Prix,2019,Silverstone Circuit,Haas F1 Team,GRO,14,0,MAG
+1019,British Grand Prix,2019,Silverstone Circuit,Haas F1 Team,MAG,16,0,GRO
 1021,Hungarian Grand Prix,2019,Hungaroring,Mercedes,HAM,3,1,BOT
 1021,Hungarian Grand Prix,2019,Hungaroring,Red Bull,VER,1,2,GAS
 1021,Hungarian Grand Prix,2019,Hungaroring,Ferrari,VET,5,3,LEC
@@ -1527,7 +1527,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1021,Hungarian Grand Prix,2019,Hungaroring,Alpine F1 Team,RIC,20,14,HUL
 1021,Hungarian Grand Prix,2019,Hungaroring,Williams,RUS,15,16,OTHER
 1021,Hungarian Grand Prix,2019,Hungaroring,Aston Martin,STR,18,17,PER
-1021,Hungarian Grand Prix,2019,Hungaroring,Haas F1 Team,GRO,9,30,MAG
+1021,Hungarian Grand Prix,2019,Hungaroring,Haas F1 Team,GRO,9,0,MAG
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Ferrari,LEC,1,1,VET
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Mercedes,HAM,3,2,BOT
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Mercedes,BOT,4,3,HAM
@@ -1543,8 +1543,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Alpine F1 Team,RIC,10,14,HUL
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Williams,RUS,14,15,OTHER
 1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Alfa Romeo,RAI,6,16,OTHER
-1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,McLaren,SAI,15,30,NOR
-1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Red Bull,VER,5,30,ALB
+1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,McLaren,SAI,15,0,NOR
+1022,Belgian Grand Prix,2019,Circuit de Spa-Francorchamps,Red Bull,VER,5,0,ALB
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Ferrari,LEC,1,1,VET
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Mercedes,BOT,3,2,HAM
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Mercedes,HAM,2,3,BOT
@@ -1558,10 +1558,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Aston Martin,STR,9,12,PER
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Ferrari,VET,4,13,LEC
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Williams,RUS,14,14,OTHER
-1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Alfa Romeo,RAI,30,15,OTHER
+1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Alfa Romeo,RAI,0,15,OTHER
 1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Haas F1 Team,GRO,13,16,MAG
-1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Haas F1 Team,MAG,11,30,GRO
-1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,McLaren,SAI,7,30,NOR
+1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,Haas F1 Team,MAG,11,0,GRO
+1023,Italian Grand Prix,2019,Autodromo Nazionale di Monza,McLaren,SAI,7,0,NOR
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Ferrari,VET,3,1,LEC
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Ferrari,LEC,1,2,VET
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Red Bull,VER,4,3,ALB
@@ -1576,9 +1576,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Aston Martin,STR,16,13,PER
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Alpine F1 Team,RIC,20,14,HUL
 1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Haas F1 Team,MAG,13,17,GRO
-1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Alfa Romeo,RAI,12,30,OTHER
-1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Aston Martin,PER,15,30,STR
-1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Williams,RUS,18,30,OTHER
+1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Alfa Romeo,RAI,12,0,OTHER
+1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Aston Martin,PER,15,0,STR
+1024,Singapore Grand Prix,2019,Marina Bay Street Circuit,Williams,RUS,18,0,OTHER
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Mercedes,BOT,3,1,HAM
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Ferrari,VET,1,2,LEC
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Mercedes,HAM,4,3,BOT
@@ -1593,9 +1593,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Haas F1 Team,GRO,10,13,MAG
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Haas F1 Team,MAG,19,15,GRO
 1026,Japanese Grand Prix,2019,Suzuka Circuit,Williams,RUS,18,16,OTHER
-1026,Japanese Grand Prix,2019,Suzuka Circuit,Red Bull,VER,5,30,ALB
-1026,Japanese Grand Prix,2019,Suzuka Circuit,Alpine F1 Team,RIC,16,30,HUL
-1026,Japanese Grand Prix,2019,Suzuka Circuit,Alpine F1 Team,HUL,15,30,RIC
+1026,Japanese Grand Prix,2019,Suzuka Circuit,Red Bull,VER,5,0,ALB
+1026,Japanese Grand Prix,2019,Suzuka Circuit,Alpine F1 Team,RIC,16,0,HUL
+1026,Japanese Grand Prix,2019,Suzuka Circuit,Alpine F1 Team,HUL,15,0,RIC
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Mercedes,HAM,3,1,BOT
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Ferrari,VET,2,2,LEC
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Mercedes,BOT,6,3,HAM
@@ -1611,8 +1611,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,17,15,GRO
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Williams,RUS,19,16,OTHER
 1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Haas F1 Team,GRO,18,17,MAG
-1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Alfa Romeo,RAI,14,30,OTHER
-1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,McLaren,NOR,8,30,SAI
+1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,Alfa Romeo,RAI,14,0,OTHER
+1027,Mexican Grand Prix,2019,Autódromo Hermanos Rodríguez,McLaren,NOR,8,0,SAI
 1028,United States Grand Prix,2019,Circuit of the Americas,Mercedes,BOT,1,1,HAM
 1028,United States Grand Prix,2019,Circuit of the Americas,Mercedes,HAM,5,2,BOT
 1028,United States Grand Prix,2019,Circuit of the Americas,Red Bull,VER,3,3,ALB
@@ -1622,14 +1622,14 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1028,United States Grand Prix,2019,Circuit of the Americas,McLaren,NOR,8,7,SAI
 1028,United States Grand Prix,2019,Circuit of the Americas,McLaren,SAI,7,8,NOR
 1028,United States Grand Prix,2019,Circuit of the Americas,Alpine F1 Team,HUL,11,9,RIC
-1028,United States Grand Prix,2019,Circuit of the Americas,Aston Martin,PER,30,10,STR
+1028,United States Grand Prix,2019,Circuit of the Americas,Aston Martin,PER,0,10,STR
 1028,United States Grand Prix,2019,Circuit of the Americas,Alfa Romeo,RAI,17,11,OTHER
 1028,United States Grand Prix,2019,Circuit of the Americas,Aston Martin,STR,14,13,PER
 1028,United States Grand Prix,2019,Circuit of the Americas,Haas F1 Team,GRO,15,15,MAG
 1028,United States Grand Prix,2019,Circuit of the Americas,AlphaTauri,GAS,10,16,OTHER
 1028,United States Grand Prix,2019,Circuit of the Americas,Williams,RUS,18,17,OTHER
 1028,United States Grand Prix,2019,Circuit of the Americas,Haas F1 Team,MAG,12,18,GRO
-1028,United States Grand Prix,2019,Circuit of the Americas,Ferrari,VET,2,30,LEC
+1028,United States Grand Prix,2019,Circuit of the Americas,Ferrari,VET,2,0,LEC
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Red Bull,VER,1,1,ALB
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,AlphaTauri,GAS,6,2,OTHER
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,McLaren,SAI,20,3,NOR
@@ -1646,7 +1646,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Ferrari,VET,2,17,LEC
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Ferrari,LEC,14,18,VET
 1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Aston Martin,STR,17,19,PER
-1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Mercedes,BOT,4,30,HAM
+1029,Brazilian Grand Prix,2019,Autódromo José Carlos Pace,Mercedes,BOT,4,0,HAM
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Mercedes,HAM,1,1,BOT
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Red Bull,VER,2,2,ALB
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Ferrari,LEC,3,3,VET
@@ -1663,7 +1663,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Haas F1 Team,GRO,15,15,MAG
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Williams,RUS,18,17,OTHER
 1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,AlphaTauri,GAS,11,18,OTHER
-1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Aston Martin,STR,12,30,PER
+1030,Abu Dhabi Grand Prix,2019,Yas Marina Circuit,Aston Martin,STR,12,0,PER
 1031,Austrian Grand Prix,2020,Red Bull Ring,Mercedes,BOT,1,1,HAM
 1031,Austrian Grand Prix,2020,Red Bull Ring,Ferrari,LEC,7,2,VET
 1031,Austrian Grand Prix,2020,Red Bull Ring,McLaren,NOR,3,3,SAI
@@ -1674,13 +1674,13 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1031,Austrian Grand Prix,2020,Red Bull Ring,Alpine F1 Team,OCO,14,8,RIC
 1031,Austrian Grand Prix,2020,Red Bull Ring,Ferrari,VET,11,10,LEC
 1031,Austrian Grand Prix,2020,Red Bull Ring,Red Bull,ALB,4,13,VER
-1031,Austrian Grand Prix,2020,Red Bull Ring,Alfa Romeo,RAI,19,30,OTHER
-1031,Austrian Grand Prix,2020,Red Bull Ring,Williams,RUS,17,30,OTHER
-1031,Austrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,GRO,15,30,MAG
-1031,Austrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,MAG,16,30,GRO
-1031,Austrian Grand Prix,2020,Red Bull Ring,Aston Martin,STR,9,30,PER
-1031,Austrian Grand Prix,2020,Red Bull Ring,Alpine F1 Team,RIC,10,30,OCO
-1031,Austrian Grand Prix,2020,Red Bull Ring,Red Bull,VER,2,30,ALB
+1031,Austrian Grand Prix,2020,Red Bull Ring,Alfa Romeo,RAI,19,0,OTHER
+1031,Austrian Grand Prix,2020,Red Bull Ring,Williams,RUS,17,0,OTHER
+1031,Austrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,GRO,15,0,MAG
+1031,Austrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,MAG,16,0,GRO
+1031,Austrian Grand Prix,2020,Red Bull Ring,Aston Martin,STR,9,0,PER
+1031,Austrian Grand Prix,2020,Red Bull Ring,Alpine F1 Team,RIC,10,0,OCO
+1031,Austrian Grand Prix,2020,Red Bull Ring,Red Bull,VER,2,0,ALB
 1032,Styrian Grand Prix,2020,Red Bull Ring,Mercedes,HAM,1,1,BOT
 1032,Styrian Grand Prix,2020,Red Bull Ring,Mercedes,BOT,4,2,HAM
 1032,Styrian Grand Prix,2020,Red Bull Ring,Red Bull,VER,2,3,ALB
@@ -1692,12 +1692,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1032,Styrian Grand Prix,2020,Red Bull Ring,McLaren,SAI,3,9,NOR
 1032,Styrian Grand Prix,2020,Red Bull Ring,Alfa Romeo,RAI,16,11,OTHER
 1032,Styrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,MAG,15,12,GRO
-1032,Styrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,GRO,30,13,MAG
+1032,Styrian Grand Prix,2020,Red Bull Ring,Haas F1 Team,GRO,0,13,MAG
 1032,Styrian Grand Prix,2020,Red Bull Ring,AlphaTauri,GAS,7,15,OTHER
 1032,Styrian Grand Prix,2020,Red Bull Ring,Williams,RUS,11,16,OTHER
-1032,Styrian Grand Prix,2020,Red Bull Ring,Alpine F1 Team,OCO,5,30,RIC
-1032,Styrian Grand Prix,2020,Red Bull Ring,Ferrari,LEC,14,30,VET
-1032,Styrian Grand Prix,2020,Red Bull Ring,Ferrari,VET,10,30,LEC
+1032,Styrian Grand Prix,2020,Red Bull Ring,Alpine F1 Team,OCO,5,0,RIC
+1032,Styrian Grand Prix,2020,Red Bull Ring,Ferrari,LEC,14,0,VET
+1032,Styrian Grand Prix,2020,Red Bull Ring,Ferrari,VET,10,0,LEC
 1033,Hungarian Grand Prix,2020,Hungaroring,Mercedes,HAM,1,1,BOT
 1033,Hungarian Grand Prix,2020,Hungaroring,Red Bull,VER,7,2,ALB
 1033,Hungarian Grand Prix,2020,Hungaroring,Mercedes,BOT,2,3,HAM
@@ -1707,14 +1707,14 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1033,Hungarian Grand Prix,2020,Hungaroring,Aston Martin,PER,4,7,STR
 1033,Hungarian Grand Prix,2020,Hungaroring,Alpine F1 Team,RIC,11,8,OCO
 1033,Hungarian Grand Prix,2020,Hungaroring,McLaren,SAI,9,9,NOR
-1033,Hungarian Grand Prix,2020,Hungaroring,Haas F1 Team,MAG,30,10,GRO
+1033,Hungarian Grand Prix,2020,Hungaroring,Haas F1 Team,MAG,0,10,GRO
 1033,Hungarian Grand Prix,2020,Hungaroring,Ferrari,LEC,6,11,VET
 1033,Hungarian Grand Prix,2020,Hungaroring,McLaren,NOR,8,13,SAI
 1033,Hungarian Grand Prix,2020,Hungaroring,Alpine F1 Team,OCO,14,14,RIC
 1033,Hungarian Grand Prix,2020,Hungaroring,Alfa Romeo,RAI,20,15,OTHER
-1033,Hungarian Grand Prix,2020,Hungaroring,Haas F1 Team,GRO,30,16,MAG
+1033,Hungarian Grand Prix,2020,Hungaroring,Haas F1 Team,GRO,0,16,MAG
 1033,Hungarian Grand Prix,2020,Hungaroring,Williams,RUS,12,18,OTHER
-1033,Hungarian Grand Prix,2020,Hungaroring,AlphaTauri,GAS,10,30,OTHER
+1033,Hungarian Grand Prix,2020,Hungaroring,AlphaTauri,GAS,10,0,OTHER
 1034,British Grand Prix,2020,Silverstone Circuit,Mercedes,HAM,1,1,BOT
 1034,British Grand Prix,2020,Silverstone Circuit,Red Bull,VER,3,2,ALB
 1034,British Grand Prix,2020,Silverstone Circuit,Ferrari,LEC,4,3,VET
@@ -1730,8 +1730,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1034,British Grand Prix,2020,Silverstone Circuit,McLaren,SAI,7,13,NOR
 1034,British Grand Prix,2020,Silverstone Circuit,Haas F1 Team,GRO,17,16,MAG
 1034,British Grand Prix,2020,Silverstone Circuit,Alfa Romeo,RAI,16,17,OTHER
-1034,British Grand Prix,2020,Silverstone Circuit,Haas F1 Team,MAG,14,30,GRO
-1034,British Grand Prix,2020,Silverstone Circuit,Aston Martin,HUL,13,30,STR
+1034,British Grand Prix,2020,Silverstone Circuit,Haas F1 Team,MAG,14,0,GRO
+1034,British Grand Prix,2020,Silverstone Circuit,Aston Martin,HUL,13,0,STR
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Red Bull,VER,4,1,ALB
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Mercedes,HAM,2,2,BOT
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Mercedes,BOT,1,3,HAM
@@ -1748,7 +1748,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Alfa Romeo,RAI,20,15,OTHER
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Haas F1 Team,GRO,13,16,MAG
 1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Williams,RUS,15,18,OTHER
-1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Haas F1 Team,MAG,17,30,GRO
+1035,70th Anniversary Grand Prix,2020,Silverstone Circuit,Haas F1 Team,MAG,17,0,GRO
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,1,BOT
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Red Bull,VER,3,2,ALB
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Mercedes,BOT,2,3,HAM
@@ -1765,7 +1765,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Haas F1 Team,MAG,16,15,GRO
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Williams,RUS,18,17,OTHER
 1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Haas F1 Team,GRO,17,19,MAG
-1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Ferrari,LEC,9,30,VET
+1036,Spanish Grand Prix,2020,Circuit de Barcelona-Catalunya,Ferrari,LEC,9,0,VET
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Mercedes,HAM,1,1,BOT
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Mercedes,BOT,2,2,HAM
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Red Bull,VER,3,3,ALB
@@ -1781,8 +1781,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Ferrari,LEC,13,14,VET
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Haas F1 Team,GRO,17,15,MAG
 1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Haas F1 Team,MAG,20,17,GRO
-1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Williams,RUS,15,30,OTHER
-1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,McLaren,SAI,7,30,NOR
+1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,Williams,RUS,15,0,OTHER
+1037,Belgian Grand Prix,2020,Circuit de Spa-Francorchamps,McLaren,SAI,7,0,NOR
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,AlphaTauri,GAS,10,1,OTHER
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,McLaren,SAI,3,2,NOR
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Aston Martin,STR,8,3,PER
@@ -1796,10 +1796,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Alfa Romeo,RAI,14,13,OTHER
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Williams,RUS,19,14,OTHER
 1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Red Bull,ALB,9,15,VER
-1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Red Bull,VER,5,30,ALB
-1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Ferrari,LEC,13,30,VET
-1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Haas F1 Team,MAG,15,30,GRO
-1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Ferrari,VET,17,30,LEC
+1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Red Bull,VER,5,0,ALB
+1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Ferrari,LEC,13,0,VET
+1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Haas F1 Team,MAG,15,0,GRO
+1038,Italian Grand Prix,2020,Autodromo Nazionale di Monza,Ferrari,VET,17,0,LEC
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Mercedes,HAM,2,1,BOT
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Mercedes,BOT,1,2,HAM
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,RIC,5,3,OCO
@@ -1812,11 +1812,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Aston Martin,STR,15,13,PER
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Haas F1 Team,GRO,16,14,MAG
 1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Red Bull,ALB,6,15,VER
-1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Williams,RUS,13,30,OTHER
-1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Red Bull,VER,3,30,ALB
-1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Haas F1 Team,MAG,17,30,GRO
-1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,OCO,12,30,RIC
-1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,AlphaTauri,GAS,4,30,OTHER
+1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Williams,RUS,13,0,OTHER
+1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Red Bull,VER,3,0,ALB
+1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Haas F1 Team,MAG,17,0,GRO
+1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,OCO,12,0,RIC
+1043,Emilia Romagna Grand Prix,2020,Autodromo Enzo e Dino Ferrari,AlphaTauri,GAS,4,0,OTHER
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Mercedes,HAM,1,1,BOT
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Red Bull,VER,3,2,ALB
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Red Bull,ALB,4,3,VER
@@ -1832,8 +1832,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Alfa Romeo,RAI,17,15,OTHER
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Haas F1 Team,MAG,18,17,GRO
 1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Aston Martin,PER,5,18,STR
-1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Aston Martin,STR,13,30,PER
-1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Haas F1 Team,GRO,19,30,MAG
+1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Aston Martin,STR,13,0,PER
+1045,Bahrain Grand Prix,2020,Bahrain International Circuit,Haas F1 Team,GRO,19,0,MAG
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Aston Martin,PER,5,1,STR
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Alpine F1 Team,OCO,11,2,RIC
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Aston Martin,STR,10,3,PER
@@ -1847,8 +1847,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Ferrari,VET,13,12,LEC
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Alfa Romeo,RAI,18,14,OTHER
 1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Haas F1 Team,MAG,15,15,OTHER
-1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Red Bull,VER,3,30,ALB
-1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Ferrari,LEC,4,30,VET
+1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Red Bull,VER,3,0,ALB
+1046,Sakhir Grand Prix,2020,Bahrain International Circuit,Ferrari,LEC,4,0,VET
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Red Bull,VER,1,1,ALB
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Mercedes,BOT,2,2,HAM
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Mercedes,HAM,3,3,BOT
@@ -1864,12 +1864,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Ferrari,VET,13,14,LEC
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Williams,RUS,16,15,OTHER
 1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Haas F1 Team,MAG,20,18,OTHER
-1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Aston Martin,PER,19,30,STR
+1047,Abu Dhabi Grand Prix,2020,Yas Marina Circuit,Aston Martin,PER,19,0,STR
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Mercedes,HAM,2,1,BOT
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Red Bull,VER,1,2,PER
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Mercedes,BOT,3,3,HAM
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,McLaren,NOR,7,4,RIC
-1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Red Bull,PER,30,5,VER
+1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Red Bull,PER,0,5,VER
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Ferrari,LEC,4,6,SAI
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,McLaren,RIC,6,7,NOR
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Ferrari,SAI,8,8,LEC
@@ -1880,7 +1880,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Williams,RUS,15,14,OTHER
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Aston Martin,VET,20,15,STR
 1052,Bahrain Grand Prix,2021,Bahrain International Circuit,AlphaTauri,GAS,5,17,TSU
-1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Alpine F1 Team,ALO,9,30,OCO
+1052,Bahrain Grand Prix,2021,Bahrain International Circuit,Alpine F1 Team,ALO,9,0,OCO
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Red Bull,VER,3,1,PER
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Mercedes,HAM,1,2,BOT
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,McLaren,NOR,7,3,RIC
@@ -1894,9 +1894,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Red Bull,PER,2,11,VER
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,AlphaTauri,TSU,20,12,GAS
 1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Alfa Romeo,RAI,16,13,OTHER
-1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Aston Martin,VET,30,15,STR
-1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Mercedes,BOT,8,30,HAM
-1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Williams,RUS,12,30,OTHER
+1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Aston Martin,VET,0,15,STR
+1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Mercedes,BOT,8,0,HAM
+1053,Emilia Romagna Grand Prix,2021,Autodromo Enzo e Dino Ferrari,Williams,RUS,12,0,OTHER
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Mercedes,HAM,1,1,BOT
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Red Bull,VER,2,2,PER
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Mercedes,BOT,3,3,HAM
@@ -1912,7 +1912,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Aston Martin,VET,13,13,STR
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Williams,RUS,15,14,OTHER
 1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,Alpine F1 Team,ALO,10,17,OCO
-1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,AlphaTauri,TSU,16,30,GAS
+1055,Spanish Grand Prix,2021,Circuit de Barcelona-Catalunya,AlphaTauri,TSU,16,0,GAS
 1056,Monaco Grand Prix,2021,Circuit de Monaco,Red Bull,VER,2,1,PER
 1056,Monaco Grand Prix,2021,Circuit de Monaco,Ferrari,SAI,4,2,LEC
 1056,Monaco Grand Prix,2021,Circuit de Monaco,McLaren,NOR,5,3,RIC
@@ -1927,8 +1927,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1056,Monaco Grand Prix,2021,Circuit de Monaco,Alpine F1 Team,ALO,17,13,OCO
 1056,Monaco Grand Prix,2021,Circuit de Monaco,Williams,RUS,15,14,OTHER
 1056,Monaco Grand Prix,2021,Circuit de Monaco,AlphaTauri,TSU,16,16,GAS
-1056,Monaco Grand Prix,2021,Circuit de Monaco,Mercedes,BOT,3,30,HAM
-1056,Monaco Grand Prix,2021,Circuit de Monaco,Ferrari,LEC,1,30,SAI
+1056,Monaco Grand Prix,2021,Circuit de Monaco,Mercedes,BOT,3,0,HAM
+1056,Monaco Grand Prix,2021,Circuit de Monaco,Ferrari,LEC,1,0,SAI
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Red Bull,PER,6,1,VER
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Aston Martin,VET,11,2,STR
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,AlphaTauri,GAS,4,3,TSU
@@ -1941,10 +1941,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Alfa Romeo,RAI,14,10,OTHER
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Mercedes,BOT,10,12,HAM
 1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Mercedes,HAM,2,15,BOT
-1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Williams,RUS,15,30,OTHER
-1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Red Bull,VER,3,30,PER
-1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Aston Martin,STR,19,30,VET
-1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Alpine F1 Team,OCO,12,30,ALO
+1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Williams,RUS,15,0,OTHER
+1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Red Bull,VER,3,0,PER
+1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Aston Martin,STR,19,0,VET
+1057,Azerbaijan Grand Prix,2021,Baku City Circuit,Alpine F1 Team,OCO,12,0,ALO
 1058,Styrian Grand Prix,2021,Red Bull Ring,Red Bull,VER,1,1,PER
 1058,Styrian Grand Prix,2021,Red Bull Ring,Mercedes,HAM,2,2,BOT
 1058,Styrian Grand Prix,2021,Red Bull Ring,Mercedes,BOT,5,3,HAM
@@ -1959,8 +1959,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1058,Styrian Grand Prix,2021,Red Bull Ring,Aston Martin,VET,14,12,STR
 1058,Styrian Grand Prix,2021,Red Bull Ring,McLaren,RIC,13,13,NOR
 1058,Styrian Grand Prix,2021,Red Bull Ring,Alpine F1 Team,OCO,17,14,ALO
-1058,Styrian Grand Prix,2021,Red Bull Ring,Williams,RUS,10,30,OTHER
-1058,Styrian Grand Prix,2021,Red Bull Ring,AlphaTauri,GAS,6,30,TSU
+1058,Styrian Grand Prix,2021,Red Bull Ring,Williams,RUS,10,0,OTHER
+1058,Styrian Grand Prix,2021,Red Bull Ring,AlphaTauri,GAS,6,0,TSU
 1060,Austrian Grand Prix,2021,Red Bull Ring,Red Bull,VER,1,1,PER
 1060,Austrian Grand Prix,2021,Red Bull Ring,Mercedes,BOT,5,2,HAM
 1060,Austrian Grand Prix,2021,Red Bull Ring,McLaren,NOR,2,3,RIC
@@ -1976,7 +1976,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1060,Austrian Grand Prix,2021,Red Bull Ring,Aston Martin,STR,9,13,VET
 1060,Austrian Grand Prix,2021,Red Bull Ring,Alfa Romeo,RAI,16,15,OTHER
 1060,Austrian Grand Prix,2021,Red Bull Ring,Aston Martin,VET,11,17,STR
-1060,Austrian Grand Prix,2021,Red Bull Ring,Alpine F1 Team,OCO,17,30,ALO
+1060,Austrian Grand Prix,2021,Red Bull Ring,Alpine F1 Team,OCO,17,0,ALO
 1061,British Grand Prix,2021,Silverstone Circuit,Mercedes,HAM,2,1,BOT
 1061,British Grand Prix,2021,Silverstone Circuit,Ferrari,LEC,4,2,SAI
 1061,British Grand Prix,2021,Silverstone Circuit,Mercedes,BOT,3,3,HAM
@@ -1990,9 +1990,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1061,British Grand Prix,2021,Silverstone Circuit,AlphaTauri,GAS,11,11,TSU
 1061,British Grand Prix,2021,Silverstone Circuit,Williams,RUS,12,12,OTHER
 1061,British Grand Prix,2021,Silverstone Circuit,Alfa Romeo,RAI,13,15,OTHER
-1061,British Grand Prix,2021,Silverstone Circuit,Red Bull,PER,30,16,VER
-1061,British Grand Prix,2021,Silverstone Circuit,Aston Martin,VET,8,30,STR
-1061,British Grand Prix,2021,Silverstone Circuit,Red Bull,VER,1,30,PER
+1061,British Grand Prix,2021,Silverstone Circuit,Red Bull,PER,0,16,VER
+1061,British Grand Prix,2021,Silverstone Circuit,Aston Martin,VET,8,0,STR
+1061,British Grand Prix,2021,Silverstone Circuit,Red Bull,VER,1,0,PER
 1062,Hungarian Grand Prix,2021,Hungaroring,Alpine F1 Team,OCO,8,1,ALO
 1062,Hungarian Grand Prix,2021,Hungaroring,Mercedes,HAM,1,2,BOT
 1062,Hungarian Grand Prix,2021,Hungaroring,Ferrari,SAI,15,3,LEC
@@ -2003,12 +2003,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1062,Hungarian Grand Prix,2021,Hungaroring,Red Bull,VER,3,9,PER
 1062,Hungarian Grand Prix,2021,Hungaroring,Alfa Romeo,RAI,13,10,OTHER
 1062,Hungarian Grand Prix,2021,Hungaroring,McLaren,RIC,11,11,NOR
-1062,Hungarian Grand Prix,2021,Hungaroring,McLaren,NOR,6,30,RIC
-1062,Hungarian Grand Prix,2021,Hungaroring,Mercedes,BOT,2,30,HAM
-1062,Hungarian Grand Prix,2021,Hungaroring,Red Bull,PER,4,30,VER
-1062,Hungarian Grand Prix,2021,Hungaroring,Ferrari,LEC,7,30,SAI
-1062,Hungarian Grand Prix,2021,Hungaroring,Aston Martin,STR,12,30,VET
-1062,Hungarian Grand Prix,2021,Hungaroring,Aston Martin,VET,10,30,STR
+1062,Hungarian Grand Prix,2021,Hungaroring,McLaren,NOR,6,0,RIC
+1062,Hungarian Grand Prix,2021,Hungaroring,Mercedes,BOT,2,0,HAM
+1062,Hungarian Grand Prix,2021,Hungaroring,Red Bull,PER,4,0,VER
+1062,Hungarian Grand Prix,2021,Hungaroring,Ferrari,LEC,7,0,SAI
+1062,Hungarian Grand Prix,2021,Hungaroring,Aston Martin,STR,12,0,VET
+1062,Hungarian Grand Prix,2021,Hungaroring,Aston Martin,VET,10,0,STR
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Red Bull,VER,1,1,PER
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Williams,RUS,2,2,OTHER
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Mercedes,HAM,3,3,BOT
@@ -2022,8 +2022,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Mercedes,BOT,13,12,HAM
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,McLaren,NOR,15,14,RIC
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,AlphaTauri,TSU,16,15,GAS
-1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Alfa Romeo,RAI,30,18,OTHER
-1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Red Bull,PER,30,19,VER
+1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Alfa Romeo,RAI,0,18,OTHER
+1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Red Bull,PER,0,19,VER
 1063,Belgian Grand Prix,2021,Circuit de Spa-Francorchamps,Aston Martin,STR,19,20,VET
 1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,McLaren,RIC,2,1,NOR
 1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,McLaren,NOR,3,2,RIC
@@ -2036,10 +2036,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Williams,RUS,14,9,OTHER
 1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Alpine F1 Team,OCO,12,10,ALO
 1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Aston Martin,VET,11,12,STR
-1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Mercedes,HAM,4,30,BOT
-1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Red Bull,VER,1,30,PER
-1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,AlphaTauri,GAS,30,30,TSU
-1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,AlphaTauri,TSU,30,30,GAS
+1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Mercedes,HAM,4,0,BOT
+1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,Red Bull,VER,1,0,PER
+1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,AlphaTauri,GAS,0,0,TSU
+1065,Italian Grand Prix,2021,Autodromo Nazionale di Monza,AlphaTauri,TSU,0,0,GAS
 1069,United States Grand Prix,2021,Circuit of the Americas,Red Bull,VER,1,1,PER
 1069,United States Grand Prix,2021,Circuit of the Americas,Mercedes,HAM,2,2,BOT
 1069,United States Grand Prix,2021,Circuit of the Americas,Red Bull,PER,3,3,VER
@@ -2053,9 +2053,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1069,United States Grand Prix,2021,Circuit of the Americas,Aston Martin,STR,13,12,VET
 1069,United States Grand Prix,2021,Circuit of the Americas,Alfa Romeo,RAI,15,13,OTHER
 1069,United States Grand Prix,2021,Circuit of the Americas,Williams,RUS,20,14,OTHER
-1069,United States Grand Prix,2021,Circuit of the Americas,Alpine F1 Team,ALO,19,30,OCO
-1069,United States Grand Prix,2021,Circuit of the Americas,Alpine F1 Team,OCO,11,30,ALO
-1069,United States Grand Prix,2021,Circuit of the Americas,AlphaTauri,GAS,8,30,TSU
+1069,United States Grand Prix,2021,Circuit of the Americas,Alpine F1 Team,ALO,19,0,OCO
+1069,United States Grand Prix,2021,Circuit of the Americas,Alpine F1 Team,OCO,11,0,ALO
+1069,United States Grand Prix,2021,Circuit of the Americas,AlphaTauri,GAS,8,0,TSU
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Red Bull,VER,3,1,PER
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Mercedes,HAM,2,2,BOT
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Red Bull,PER,4,3,VER
@@ -2071,7 +2071,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Aston Martin,STR,20,14,VET
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Mercedes,BOT,1,15,HAM
 1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,Williams,RUS,16,16,OTHER
-1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,AlphaTauri,TSU,17,30,GAS
+1070,Mexico City Grand Prix,2021,Autódromo Hermanos Rodríguez,AlphaTauri,TSU,17,0,GAS
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Mercedes,HAM,10,1,BOT
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Red Bull,VER,2,2,PER
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Mercedes,BOT,1,3,HAM
@@ -2083,11 +2083,11 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Alpine F1 Team,ALO,12,9,OCO
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,McLaren,NOR,5,10,RIC
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Aston Martin,VET,9,11,STR
-1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Alfa Romeo,RAI,30,12,OTHER
+1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Alfa Romeo,RAI,0,12,OTHER
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Williams,RUS,17,13,OTHER
 1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,AlphaTauri,TSU,15,15,GAS
-1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,McLaren,RIC,11,30,NOR
-1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Aston Martin,STR,14,30,VET
+1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,McLaren,RIC,11,0,NOR
+1071,São Paulo Grand Prix,2021,Autódromo José Carlos Pace,Aston Martin,STR,14,0,VET
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Mercedes,HAM,1,1,BOT
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Red Bull,VER,3,2,PER
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Mercedes,BOT,2,3,HAM
@@ -2101,9 +2101,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Alpine F1 Team,ALO,13,13,OCO
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,AlphaTauri,TSU,8,14,GAS
 1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Alfa Romeo,RAI,12,15,OTHER
-1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Aston Martin,VET,17,30,STR
-1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Red Bull,PER,5,30,VER
-1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Williams,RUS,14,30,OTHER
+1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Aston Martin,VET,17,0,STR
+1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Red Bull,PER,5,0,VER
+1072,Saudi Arabian Grand Prix,2021,Jeddah Corniche Circuit,Williams,RUS,14,0,OTHER
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Red Bull,VER,1,1,PER
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Mercedes,HAM,2,2,BOT
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Ferrari,SAI,5,3,LEC
@@ -2118,8 +2118,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,McLaren,RIC,10,12,NOR
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Aston Martin,STR,13,13,VET
 1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Red Bull,PER,4,15,VER
-1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Williams,RUS,17,30,OTHER
-1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Alfa Romeo,RAI,18,30,OTHER
+1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Williams,RUS,17,0,OTHER
+1073,Abu Dhabi Grand Prix,2021,Yas Marina Circuit,Alfa Romeo,RAI,18,0,OTHER
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Ferrari,LEC,1,1,SAI
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Ferrari,SAI,3,2,LEC
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Mercedes,HAM,5,3,RUS
@@ -2137,7 +2137,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Aston Martin,HUL,17,17,STR
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Red Bull,PER,4,18,VER
 1074,Bahrain Grand Prix,2022,Bahrain International Circuit,Red Bull,VER,2,19,PER
-1074,Bahrain Grand Prix,2022,Bahrain International Circuit,AlphaTauri,GAS,10,30,TSU
+1074,Bahrain Grand Prix,2022,Bahrain International Circuit,AlphaTauri,GAS,10,0,TSU
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Red Bull,VER,4,1,PER
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Ferrari,LEC,2,2,SAI
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Ferrari,SAI,3,3,LEC
@@ -2152,10 +2152,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Aston Martin,HUL,17,12,STR
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Aston Martin,STR,13,13,HUL
 1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Williams,ALB,16,14,OTHER
-1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Alfa Romeo,BOT,8,30,ZHO
-1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Alpine F1 Team,ALO,7,30,OCO
-1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,McLaren,RIC,14,30,NOR
-1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,AlphaTauri,TSU,19,30,GAS
+1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Alfa Romeo,BOT,8,0,ZHO
+1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,Alpine F1 Team,ALO,7,0,OCO
+1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,McLaren,RIC,14,0,NOR
+1075,Saudi Arabian Grand Prix,2022,Jeddah Corniche Circuit,AlphaTauri,TSU,19,0,GAS
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Ferrari,LEC,1,1,SAI
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Red Bull,PER,3,2,VER
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Mercedes,RUS,6,3,HAM
@@ -2171,9 +2171,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,16,14,OTHER
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,AlphaTauri,TSU,13,15,GAS
 1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Alpine F1 Team,ALO,10,17,OCO
-1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Red Bull,VER,2,30,PER
-1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Aston Martin,VET,17,30,STR
-1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Ferrari,SAI,9,30,LEC
+1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Red Bull,VER,2,0,PER
+1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Aston Martin,VET,17,0,STR
+1076,Australian Grand Prix,2022,Albert Park Grand Prix Circuit,Ferrari,SAI,9,0,LEC
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Red Bull,VER,1,1,PER
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Red Bull,PER,3,2,VER
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,McLaren,NOR,5,3,RIC
@@ -2188,10 +2188,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,AlphaTauri,GAS,17,12,TSU
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Mercedes,HAM,14,13,RUS
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,OCO,16,14,ALO
-1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Alfa Romeo,ZHO,30,15,BOT
+1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Alfa Romeo,ZHO,0,15,BOT
 1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,McLaren,RIC,6,18,NOR
-1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,ALO,9,30,OCO
-1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Ferrari,SAI,4,30,LEC
+1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Alpine F1 Team,ALO,9,0,OCO
+1077,Emilia Romagna Grand Prix,2022,Autodromo Enzo e Dino Ferrari,Ferrari,SAI,4,0,LEC
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Red Bull,VER,2,1,PER
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Red Bull,PER,5,2,VER
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Mercedes,RUS,4,3,HAM
@@ -2208,8 +2208,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Aston Martin,STR,17,15,VET
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Haas F1 Team,MAG,8,17,OTHER
 1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Williams,ALB,18,18,OTHER
-1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Alfa Romeo,ZHO,15,30,BOT
-1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Ferrari,LEC,1,30,SAI
+1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Alfa Romeo,ZHO,15,0,BOT
+1079,Spanish Grand Prix,2022,Circuit de Barcelona-Catalunya,Ferrari,LEC,1,0,SAI
 1080,Monaco Grand Prix,2022,Circuit de Monaco,Red Bull,PER,3,1,VER
 1080,Monaco Grand Prix,2022,Circuit de Monaco,Ferrari,SAI,2,2,LEC
 1080,Monaco Grand Prix,2022,Circuit de Monaco,Red Bull,VER,4,3,PER
@@ -2226,8 +2226,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1080,Monaco Grand Prix,2022,Circuit de Monaco,Aston Martin,STR,18,14,VET
 1080,Monaco Grand Prix,2022,Circuit de Monaco,Alfa Romeo,ZHO,20,16,BOT
 1080,Monaco Grand Prix,2022,Circuit de Monaco,AlphaTauri,TSU,11,17,GAS
-1080,Monaco Grand Prix,2022,Circuit de Monaco,Williams,ALB,16,30,OTHER
-1080,Monaco Grand Prix,2022,Circuit de Monaco,Haas F1 Team,MAG,13,30,OTHER
+1080,Monaco Grand Prix,2022,Circuit de Monaco,Williams,ALB,16,0,OTHER
+1080,Monaco Grand Prix,2022,Circuit de Monaco,Haas F1 Team,MAG,13,0,OTHER
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Red Bull,VER,3,1,PER
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Red Bull,PER,2,2,VER
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Mercedes,RUS,5,3,HAM
@@ -2242,10 +2242,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Williams,ALB,17,12,OTHER
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,AlphaTauri,TSU,8,13,GAS
 1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Aston Martin,STR,19,16,VET
-1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Haas F1 Team,MAG,16,30,OTHER
-1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Alfa Romeo,ZHO,14,30,BOT
-1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Ferrari,LEC,1,30,SAI
-1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Ferrari,SAI,4,30,LEC
+1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Haas F1 Team,MAG,16,0,OTHER
+1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Alfa Romeo,ZHO,14,0,BOT
+1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Ferrari,LEC,1,0,SAI
+1081,Azerbaijan Grand Prix,2022,Baku City Circuit,Ferrari,SAI,4,0,LEC
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Red Bull,VER,1,1,PER
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Ferrari,SAI,3,2,LEC
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Mercedes,HAM,4,3,RUS
@@ -2262,8 +2262,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,AlphaTauri,GAS,15,14,TSU
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,McLaren,NOR,14,15,RIC
 1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Haas F1 Team,MAG,5,17,OTHER
-1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,AlphaTauri,TSU,20,30,GAS
-1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Red Bull,PER,13,30,VER
+1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,AlphaTauri,TSU,20,0,GAS
+1082,Canadian Grand Prix,2022,Circuit Gilles Villeneuve,Red Bull,PER,13,0,VER
 1083,British Grand Prix,2022,Silverstone Circuit,Ferrari,SAI,1,1,LEC
 1083,British Grand Prix,2022,Silverstone Circuit,Red Bull,PER,4,2,VER
 1083,British Grand Prix,2022,Silverstone Circuit,Mercedes,HAM,5,3,RUS
@@ -2276,12 +2276,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1083,British Grand Prix,2022,Silverstone Circuit,Aston Martin,STR,20,11,VET
 1083,British Grand Prix,2022,Silverstone Circuit,McLaren,RIC,14,13,NOR
 1083,British Grand Prix,2022,Silverstone Circuit,AlphaTauri,TSU,13,14,GAS
-1083,British Grand Prix,2022,Silverstone Circuit,Alpine F1 Team,OCO,15,30,ALO
-1083,British Grand Prix,2022,Silverstone Circuit,AlphaTauri,GAS,11,30,TSU
-1083,British Grand Prix,2022,Silverstone Circuit,Alfa Romeo,BOT,12,30,ZHO
-1083,British Grand Prix,2022,Silverstone Circuit,Mercedes,RUS,8,30,HAM
-1083,British Grand Prix,2022,Silverstone Circuit,Alfa Romeo,ZHO,9,30,BOT
-1083,British Grand Prix,2022,Silverstone Circuit,Williams,ALB,16,30,OTHER
+1083,British Grand Prix,2022,Silverstone Circuit,Alpine F1 Team,OCO,15,0,ALO
+1083,British Grand Prix,2022,Silverstone Circuit,AlphaTauri,GAS,11,0,TSU
+1083,British Grand Prix,2022,Silverstone Circuit,Alfa Romeo,BOT,12,0,ZHO
+1083,British Grand Prix,2022,Silverstone Circuit,Mercedes,RUS,8,0,HAM
+1083,British Grand Prix,2022,Silverstone Circuit,Alfa Romeo,ZHO,9,0,BOT
+1083,British Grand Prix,2022,Silverstone Circuit,Williams,ALB,16,0,OTHER
 1084,Austrian Grand Prix,2022,Red Bull Ring,Ferrari,LEC,2,1,SAI
 1084,Austrian Grand Prix,2022,Red Bull Ring,Red Bull,VER,1,2,PER
 1084,Austrian Grand Prix,2022,Red Bull Ring,Mercedes,HAM,8,3,RUS
@@ -2291,15 +2291,15 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1084,Austrian Grand Prix,2022,Red Bull Ring,Haas F1 Team,MAG,7,8,OTHER
 1084,Austrian Grand Prix,2022,Red Bull Ring,McLaren,RIC,11,9,NOR
 1084,Austrian Grand Prix,2022,Red Bull Ring,Alpine F1 Team,ALO,19,10,OCO
-1084,Austrian Grand Prix,2022,Red Bull Ring,Alfa Romeo,BOT,30,11,ZHO
+1084,Austrian Grand Prix,2022,Red Bull Ring,Alfa Romeo,BOT,0,11,ZHO
 1084,Austrian Grand Prix,2022,Red Bull Ring,Williams,ALB,15,12,OTHER
 1084,Austrian Grand Prix,2022,Red Bull Ring,Aston Martin,STR,12,13,VET
 1084,Austrian Grand Prix,2022,Red Bull Ring,Alfa Romeo,ZHO,13,14,BOT
 1084,Austrian Grand Prix,2022,Red Bull Ring,AlphaTauri,GAS,14,15,TSU
 1084,Austrian Grand Prix,2022,Red Bull Ring,AlphaTauri,TSU,16,16,GAS
 1084,Austrian Grand Prix,2022,Red Bull Ring,Aston Martin,VET,18,17,STR
-1084,Austrian Grand Prix,2022,Red Bull Ring,Ferrari,SAI,3,30,LEC
-1084,Austrian Grand Prix,2022,Red Bull Ring,Red Bull,PER,5,30,VER
+1084,Austrian Grand Prix,2022,Red Bull Ring,Ferrari,SAI,3,0,LEC
+1084,Austrian Grand Prix,2022,Red Bull Ring,Red Bull,PER,5,0,VER
 1086,Hungarian Grand Prix,2022,Hungaroring,Red Bull,VER,10,1,PER
 1086,Hungarian Grand Prix,2022,Hungaroring,Mercedes,HAM,7,2,RUS
 1086,Hungarian Grand Prix,2022,Hungaroring,Mercedes,RUS,1,3,HAM
@@ -2311,7 +2311,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1086,Hungarian Grand Prix,2022,Hungaroring,Alpine F1 Team,OCO,5,9,ALO
 1086,Hungarian Grand Prix,2022,Hungaroring,Aston Martin,VET,18,10,STR
 1086,Hungarian Grand Prix,2022,Hungaroring,Aston Martin,STR,14,11,VET
-1086,Hungarian Grand Prix,2022,Hungaroring,AlphaTauri,GAS,30,12,TSU
+1086,Hungarian Grand Prix,2022,Hungaroring,AlphaTauri,GAS,0,12,TSU
 1086,Hungarian Grand Prix,2022,Hungaroring,Alfa Romeo,ZHO,12,13,BOT
 1086,Hungarian Grand Prix,2022,Hungaroring,McLaren,RIC,9,15,NOR
 1086,Hungarian Grand Prix,2022,Hungaroring,Haas F1 Team,MAG,13,16,OTHER
@@ -2326,16 +2326,16 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Ferrari,LEC,15,6,SAI
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Alpine F1 Team,OCO,16,7,ALO
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Aston Martin,VET,10,8,STR
-1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,AlphaTauri,GAS,30,9,TSU
+1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,AlphaTauri,GAS,0,9,TSU
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Williams,ALB,6,10,OTHER
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Aston Martin,STR,9,11,VET
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,McLaren,NOR,17,12,RIC
-1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,AlphaTauri,TSU,30,13,GAS
+1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,AlphaTauri,TSU,0,13,GAS
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Alfa Romeo,ZHO,18,14,BOT
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,McLaren,RIC,7,15,NOR
 1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Haas F1 Team,MAG,12,16,OTHER
-1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Alfa Romeo,BOT,13,30,ZHO
-1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Mercedes,HAM,4,30,RUS
+1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Alfa Romeo,BOT,13,0,ZHO
+1087,Belgian Grand Prix,2022,Circuit de Spa-Francorchamps,Mercedes,HAM,4,0,RUS
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Red Bull,VER,7,1,PER
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Ferrari,LEC,1,2,SAI
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Mercedes,RUS,2,3,HAM
@@ -2349,10 +2349,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Alfa Romeo,BOT,15,13,ZHO
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,AlphaTauri,TSU,20,14,GAS
 1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Haas F1 Team,MAG,16,16,OTHER
-1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,McLaren,RIC,4,30,NOR
-1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Aston Martin,STR,12,30,VET
-1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Alpine F1 Team,ALO,6,30,OCO
-1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Aston Martin,VET,11,30,STR
+1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,McLaren,RIC,4,0,NOR
+1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Aston Martin,STR,12,0,VET
+1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Alpine F1 Team,ALO,6,0,OCO
+1089,Italian Grand Prix,2022,Autodromo Nazionale di Monza,Aston Martin,VET,11,0,STR
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Red Bull,PER,2,1,VER
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Ferrari,LEC,1,2,SAI
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Ferrari,SAI,4,3,LEC
@@ -2365,12 +2365,12 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,AlphaTauri,GAS,7,10,TSU
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alfa Romeo,BOT,15,11,ZHO
 1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Haas F1 Team,MAG,9,12,OTHER
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Mercedes,RUS,30,14,HAM
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,AlphaTauri,TSU,10,30,GAS
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alpine F1 Team,OCO,17,30,ALO
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Williams,ALB,18,30,OTHER
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alpine F1 Team,ALO,5,30,OCO
-1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alfa Romeo,ZHO,14,30,BOT
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Mercedes,RUS,0,14,HAM
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,AlphaTauri,TSU,10,0,GAS
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alpine F1 Team,OCO,17,0,ALO
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Williams,ALB,18,0,OTHER
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alpine F1 Team,ALO,5,0,OCO
+1091,Singapore Grand Prix,2022,Marina Bay Street Circuit,Alfa Romeo,ZHO,14,0,BOT
 1092,Japanese Grand Prix,2022,Suzuka Circuit,Red Bull,VER,1,1,PER
 1092,Japanese Grand Prix,2022,Suzuka Circuit,Red Bull,PER,4,2,VER
 1092,Japanese Grand Prix,2022,Suzuka Circuit,Ferrari,LEC,2,3,SAI
@@ -2387,8 +2387,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1092,Japanese Grand Prix,2022,Suzuka Circuit,Alfa Romeo,BOT,12,15,ZHO
 1092,Japanese Grand Prix,2022,Suzuka Circuit,Alfa Romeo,ZHO,14,16,BOT
 1092,Japanese Grand Prix,2022,Suzuka Circuit,AlphaTauri,GAS,17,18,TSU
-1092,Japanese Grand Prix,2022,Suzuka Circuit,Ferrari,SAI,3,30,LEC
-1092,Japanese Grand Prix,2022,Suzuka Circuit,Williams,ALB,16,30,OTHER
+1092,Japanese Grand Prix,2022,Suzuka Circuit,Ferrari,SAI,3,0,LEC
+1092,Japanese Grand Prix,2022,Suzuka Circuit,Williams,ALB,16,0,OTHER
 1093,United States Grand Prix,2022,Circuit of the Americas,Red Bull,VER,2,1,PER
 1093,United States Grand Prix,2022,Circuit of the Americas,Mercedes,HAM,3,2,RUS
 1093,United States Grand Prix,2022,Circuit of the Americas,Ferrari,LEC,12,3,SAI
@@ -2399,14 +2399,14 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1093,United States Grand Prix,2022,Circuit of the Americas,Aston Martin,VET,10,8,STR
 1093,United States Grand Prix,2022,Circuit of the Americas,Haas F1 Team,MAG,13,9,OTHER
 1093,United States Grand Prix,2022,Circuit of the Americas,AlphaTauri,TSU,19,10,GAS
-1093,United States Grand Prix,2022,Circuit of the Americas,Alpine F1 Team,OCO,30,11,ALO
+1093,United States Grand Prix,2022,Circuit of the Americas,Alpine F1 Team,OCO,0,11,ALO
 1093,United States Grand Prix,2022,Circuit of the Americas,Alfa Romeo,ZHO,18,12,BOT
 1093,United States Grand Prix,2022,Circuit of the Americas,Williams,ALB,8,13,OTHER
 1093,United States Grand Prix,2022,Circuit of the Americas,AlphaTauri,GAS,11,14,TSU
 1093,United States Grand Prix,2022,Circuit of the Americas,McLaren,RIC,15,16,NOR
-1093,United States Grand Prix,2022,Circuit of the Americas,Aston Martin,STR,5,30,VET
-1093,United States Grand Prix,2022,Circuit of the Americas,Alfa Romeo,BOT,7,30,ZHO
-1093,United States Grand Prix,2022,Circuit of the Americas,Ferrari,SAI,1,30,LEC
+1093,United States Grand Prix,2022,Circuit of the Americas,Aston Martin,STR,5,0,VET
+1093,United States Grand Prix,2022,Circuit of the Americas,Alfa Romeo,BOT,7,0,ZHO
+1093,United States Grand Prix,2022,Circuit of the Americas,Ferrari,SAI,1,0,LEC
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Red Bull,VER,1,1,PER
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Mercedes,HAM,3,2,RUS
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Red Bull,PER,4,3,VER
@@ -2424,7 +2424,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Aston Martin,STR,20,15,VET
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,19,17,OTHER
 1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,Alpine F1 Team,ALO,9,19,OCO
-1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,AlphaTauri,TSU,13,30,GAS
+1094,Mexico City Grand Prix,2022,Autódromo Hermanos Rodríguez,AlphaTauri,TSU,13,0,GAS
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Mercedes,RUS,1,1,HAM
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Mercedes,HAM,2,2,RUS
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Ferrari,SAI,7,3,LEC
@@ -2439,10 +2439,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Alfa Romeo,ZHO,13,12,BOT
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,AlphaTauri,GAS,10,14,TSU
 1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Williams,ALB,19,15,OTHER
-1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,AlphaTauri,TSU,30,17,GAS
-1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,McLaren,NOR,6,30,RIC
-1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Haas F1 Team,MAG,8,30,OTHER
-1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,McLaren,RIC,11,30,NOR
+1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,AlphaTauri,TSU,0,17,GAS
+1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,McLaren,NOR,6,0,RIC
+1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,Haas F1 Team,MAG,8,0,OTHER
+1095,São Paulo Grand Prix,2022,Autódromo José Carlos Pace,McLaren,RIC,11,0,NOR
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Red Bull,VER,1,1,PER
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Ferrari,LEC,3,2,SAI
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Red Bull,PER,2,3,VER
@@ -2460,7 +2460,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Alfa Romeo,BOT,18,15,ZHO
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Haas F1 Team,MAG,16,17,OTHER
 1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Mercedes,HAM,5,18,RUS
-1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Alpine F1 Team,ALO,10,30,OCO
+1096,Abu Dhabi Grand Prix,2022,Yas Marina Circuit,Alpine F1 Team,ALO,10,0,OCO
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Red Bull,VER,1,1,PER
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Red Bull,PER,2,2,VER
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Aston Martin,ALO,5,3,STR
@@ -2476,8 +2476,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Haas F1 Team,HUL,10,15,MAG
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Alfa Romeo,ZHO,13,16,BOT
 1098,Bahrain Grand Prix,2023,Bahrain International Circuit,McLaren,NOR,11,17,OTHER
-1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Alpine F1 Team,OCO,9,30,GAS
-1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Ferrari,LEC,3,30,SAI
+1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Alpine F1 Team,OCO,9,0,GAS
+1098,Bahrain Grand Prix,2023,Bahrain International Circuit,Ferrari,LEC,3,0,SAI
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Red Bull,PER,1,1,VER
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Red Bull,VER,15,2,PER
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Aston Martin,ALO,2,3,STR
@@ -2493,25 +2493,25 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Alfa Romeo,ZHO,11,13,BOT
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,McLaren,NOR,19,17,OTHER
 1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Alfa Romeo,BOT,14,18,ZHO
-1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Williams,ALB,17,30,OTHER
-1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Aston Martin,STR,5,30,ALO
+1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Williams,ALB,17,0,OTHER
+1099,Saudi Arabian Grand Prix,2023,Jeddah Corniche Circuit,Aston Martin,STR,5,0,ALO
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Red Bull,VER,1,1,PER
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Mercedes,HAM,3,2,RUS
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Aston Martin,ALO,4,3,STR
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Aston Martin,STR,6,4,ALO
-1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Red Bull,PER,30,5,VER
+1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Red Bull,PER,0,5,VER
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,McLaren,NOR,13,6,OTHER
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Haas F1 Team,HUL,10,7,MAG
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Alfa Romeo,ZHO,17,9,BOT
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,AlphaTauri,TSU,12,10,OTHER
-1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Alfa Romeo,BOT,30,11,ZHO
+1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Alfa Romeo,BOT,0,11,ZHO
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Ferrari,SAI,5,12,LEC
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Alpine F1 Team,GAS,9,13,OCO
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Alpine F1 Team,OCO,11,14,GAS
 1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Haas F1 Team,MAG,14,17,HUL
-1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Mercedes,RUS,2,30,HAM
-1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Williams,ALB,8,30,OTHER
-1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Ferrari,LEC,7,30,SAI
+1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Mercedes,RUS,2,0,HAM
+1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Williams,ALB,8,0,OTHER
+1100,Australian Grand Prix,2023,Albert Park Grand Prix Circuit,Ferrari,LEC,7,0,SAI
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Red Bull,PER,3,1,VER
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Red Bull,VER,2,2,PER
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Ferrari,LEC,1,3,SAI
@@ -2525,10 +2525,10 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Williams,ALB,12,12,OTHER
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Haas F1 Team,MAG,16,13,HUL
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alpine F1 Team,GAS,17,14,OCO
-1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alpine F1 Team,OCO,30,15,GAS
-1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Haas F1 Team,HUL,30,17,MAG
+1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alpine F1 Team,OCO,0,15,GAS
+1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Haas F1 Team,HUL,0,17,MAG
 1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alfa Romeo,BOT,13,18,ZHO
-1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alfa Romeo,ZHO,15,30,BOT
+1101,Azerbaijan Grand Prix,2023,Baku City Circuit,Alfa Romeo,ZHO,15,0,BOT
 1104,Monaco Grand Prix,2023,Circuit de Monaco,Red Bull,VER,1,1,PER
 1104,Monaco Grand Prix,2023,Circuit de Monaco,Aston Martin,ALO,2,2,STR
 1104,Monaco Grand Prix,2023,Circuit de Monaco,Alpine F1 Team,OCO,3,3,GAS
@@ -2544,8 +2544,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1104,Monaco Grand Prix,2023,Circuit de Monaco,AlphaTauri,TSU,9,15,OTHER
 1104,Monaco Grand Prix,2023,Circuit de Monaco,Red Bull,PER,20,16,VER
 1104,Monaco Grand Prix,2023,Circuit de Monaco,Haas F1 Team,HUL,18,17,MAG
-1104,Monaco Grand Prix,2023,Circuit de Monaco,Haas F1 Team,MAG,17,30,HUL
-1104,Monaco Grand Prix,2023,Circuit de Monaco,Aston Martin,STR,14,30,ALO
+1104,Monaco Grand Prix,2023,Circuit de Monaco,Haas F1 Team,MAG,17,0,HUL
+1104,Monaco Grand Prix,2023,Circuit de Monaco,Aston Martin,STR,14,0,ALO
 1105,Spanish Grand Prix,2023,Circuit de Barcelona-Catalunya,Red Bull,VER,1,1,PER
 1105,Spanish Grand Prix,2023,Circuit de Barcelona-Catalunya,Mercedes,HAM,4,2,RUS
 1105,Spanish Grand Prix,2023,Circuit de Barcelona-Catalunya,Mercedes,RUS,12,3,HAM
@@ -2579,7 +2579,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1106,Canadian Grand Prix,2023,Circuit Gilles Villeneuve,Haas F1 Team,HUL,5,15,MAG
 1106,Canadian Grand Prix,2023,Circuit Gilles Villeneuve,Alfa Romeo,ZHO,20,16,BOT
 1106,Canadian Grand Prix,2023,Circuit Gilles Villeneuve,Haas F1 Team,MAG,13,17,HUL
-1106,Canadian Grand Prix,2023,Circuit Gilles Villeneuve,Mercedes,RUS,4,30,HAM
+1106,Canadian Grand Prix,2023,Circuit Gilles Villeneuve,Mercedes,RUS,4,0,HAM
 1107,Austrian Grand Prix,2023,Red Bull Ring,Red Bull,VER,1,1,PER
 1107,Austrian Grand Prix,2023,Red Bull Ring,Ferrari,LEC,2,2,SAI
 1107,Austrian Grand Prix,2023,Red Bull Ring,Red Bull,PER,15,3,VER
@@ -2594,9 +2594,9 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1107,Austrian Grand Prix,2023,Red Bull Ring,Alfa Romeo,ZHO,17,12,BOT
 1107,Austrian Grand Prix,2023,Red Bull Ring,Alpine F1 Team,OCO,12,14,GAS
 1107,Austrian Grand Prix,2023,Red Bull Ring,Alfa Romeo,BOT,14,15,ZHO
-1107,Austrian Grand Prix,2023,Red Bull Ring,Haas F1 Team,MAG,30,18,HUL
+1107,Austrian Grand Prix,2023,Red Bull Ring,Haas F1 Team,MAG,0,18,HUL
 1107,Austrian Grand Prix,2023,Red Bull Ring,AlphaTauri,TSU,16,19,OTHER
-1107,Austrian Grand Prix,2023,Red Bull Ring,Haas F1 Team,HUL,8,30,MAG
+1107,Austrian Grand Prix,2023,Red Bull Ring,Haas F1 Team,HUL,8,0,MAG
 1108,British Grand Prix,2023,Silverstone Circuit,Red Bull,VER,1,1,PER
 1108,British Grand Prix,2023,Silverstone Circuit,McLaren,NOR,2,2,OTHER
 1108,British Grand Prix,2023,Silverstone Circuit,Mercedes,HAM,7,3,RUS
@@ -2612,8 +2612,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1108,British Grand Prix,2023,Silverstone Circuit,Alfa Romeo,ZHO,17,15,BOT
 1108,British Grand Prix,2023,Silverstone Circuit,AlphaTauri,TSU,16,16,OTHER
 1108,British Grand Prix,2023,Silverstone Circuit,Alpine F1 Team,GAS,10,18,OCO
-1108,British Grand Prix,2023,Silverstone Circuit,Haas F1 Team,MAG,19,30,HUL
-1108,British Grand Prix,2023,Silverstone Circuit,Alpine F1 Team,OCO,13,30,GAS
+1108,British Grand Prix,2023,Silverstone Circuit,Haas F1 Team,MAG,19,0,HUL
+1108,British Grand Prix,2023,Silverstone Circuit,Alpine F1 Team,OCO,13,0,GAS
 1109,Hungarian Grand Prix,2023,Hungaroring,Red Bull,VER,2,1,PER
 1109,Hungarian Grand Prix,2023,Hungaroring,McLaren,NOR,3,2,OTHER
 1109,Hungarian Grand Prix,2023,Hungaroring,Red Bull,PER,9,3,VER
@@ -2630,8 +2630,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1109,Hungarian Grand Prix,2023,Hungaroring,AlphaTauri,TSU,17,15,RIC
 1109,Hungarian Grand Prix,2023,Hungaroring,Alfa Romeo,ZHO,5,16,BOT
 1109,Hungarian Grand Prix,2023,Hungaroring,Haas F1 Team,MAG,19,17,HUL
-1109,Hungarian Grand Prix,2023,Hungaroring,Alpine F1 Team,OCO,12,30,GAS
-1109,Hungarian Grand Prix,2023,Hungaroring,Alpine F1 Team,GAS,15,30,OCO
+1109,Hungarian Grand Prix,2023,Hungaroring,Alpine F1 Team,OCO,12,0,GAS
+1109,Hungarian Grand Prix,2023,Hungaroring,Alpine F1 Team,GAS,15,0,OCO
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Red Bull,VER,6,1,PER
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Red Bull,PER,2,2,VER
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Ferrari,LEC,1,3,SAI
@@ -2648,8 +2648,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Williams,ALB,15,14,OTHER
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Haas F1 Team,MAG,16,15,HUL
 1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,AlphaTauri,RIC,19,16,TSU
-1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Haas F1 Team,HUL,30,18,MAG
-1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Ferrari,SAI,4,30,LEC
+1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Haas F1 Team,HUL,0,18,MAG
+1110,Belgian Grand Prix,2023,Circuit de Spa-Francorchamps,Ferrari,SAI,4,0,LEC
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Red Bull,VER,2,1,PER
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Red Bull,PER,5,2,VER
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Ferrari,SAI,1,3,LEC
@@ -2665,8 +2665,8 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Aston Martin,STR,20,16,ALO
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Haas F1 Team,HUL,13,17,MAG
 1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Haas F1 Team,MAG,19,18,HUL
-1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Alpine F1 Team,OCO,18,30,GAS
-1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,AlphaTauri,TSU,11,30,OTHER
+1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,Alpine F1 Team,OCO,18,0,GAS
+1112,Italian Grand Prix,2023,Autodromo Nazionale di Monza,AlphaTauri,TSU,11,0,OTHER
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Ferrari,SAI,1,1,LEC
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,McLaren,NOR,4,2,OTHER
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Mercedes,HAM,5,3,RUS
@@ -2676,14 +2676,14 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Red Bull,PER,13,8,VER
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Haas F1 Team,MAG,6,10,HUL
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Williams,ALB,14,11,OTHER
-1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alfa Romeo,ZHO,30,12,BOT
+1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alfa Romeo,ZHO,0,12,BOT
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Haas F1 Team,HUL,9,13,MAG
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Aston Martin,ALO,7,15,STR
 1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Mercedes,RUS,2,16,HAM
-1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alfa Romeo,BOT,16,30,ZHO
-1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alpine F1 Team,OCO,8,30,GAS
-1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,AlphaTauri,TSU,15,30,OTHER
-1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Aston Martin,STR,30,30,ALO
+1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alfa Romeo,BOT,16,0,ZHO
+1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Alpine F1 Team,OCO,8,0,GAS
+1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,AlphaTauri,TSU,15,0,OTHER
+1113,Singapore Grand Prix,2023,Marina Bay Street Circuit,Aston Martin,STR,0,0,ALO
 1114,Japanese Grand Prix,2023,Suzuka Circuit,Red Bull,VER,1,1,PER
 1114,Japanese Grand Prix,2023,Suzuka Circuit,McLaren,NOR,3,2,OTHER
 1114,Japanese Grand Prix,2023,Suzuka Circuit,Ferrari,LEC,4,4,SAI
@@ -2697,28 +2697,28 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1114,Japanese Grand Prix,2023,Suzuka Circuit,Alfa Romeo,ZHO,19,13,BOT
 1114,Japanese Grand Prix,2023,Suzuka Circuit,Haas F1 Team,HUL,18,14,MAG
 1114,Japanese Grand Prix,2023,Suzuka Circuit,Haas F1 Team,MAG,15,15,HUL
-1114,Japanese Grand Prix,2023,Suzuka Circuit,Williams,ALB,13,30,OTHER
-1114,Japanese Grand Prix,2023,Suzuka Circuit,Aston Martin,STR,17,30,ALO
-1114,Japanese Grand Prix,2023,Suzuka Circuit,Red Bull,PER,5,30,VER
-1114,Japanese Grand Prix,2023,Suzuka Circuit,Alfa Romeo,BOT,16,30,ZHO
+1114,Japanese Grand Prix,2023,Suzuka Circuit,Williams,ALB,13,0,OTHER
+1114,Japanese Grand Prix,2023,Suzuka Circuit,Aston Martin,STR,17,0,ALO
+1114,Japanese Grand Prix,2023,Suzuka Circuit,Red Bull,PER,5,0,VER
+1114,Japanese Grand Prix,2023,Suzuka Circuit,Alfa Romeo,BOT,16,0,ZHO
 1116,United States Grand Prix,2023,Circuit of the Americas,Red Bull,VER,6,1,PER
 1116,United States Grand Prix,2023,Circuit of the Americas,McLaren,NOR,2,2,OTHER
 1116,United States Grand Prix,2023,Circuit of the Americas,Ferrari,SAI,4,3,LEC
 1116,United States Grand Prix,2023,Circuit of the Americas,Red Bull,PER,9,4,VER
 1116,United States Grand Prix,2023,Circuit of the Americas,Mercedes,RUS,5,5,HAM
 1116,United States Grand Prix,2023,Circuit of the Americas,Alpine F1 Team,GAS,7,6,OCO
-1116,United States Grand Prix,2023,Circuit of the Americas,Aston Martin,STR,30,7,ALO
+1116,United States Grand Prix,2023,Circuit of the Americas,Aston Martin,STR,0,7,ALO
 1116,United States Grand Prix,2023,Circuit of the Americas,AlphaTauri,TSU,11,8,RIC
 1116,United States Grand Prix,2023,Circuit of the Americas,Williams,ALB,15,9,OTHER
-1116,United States Grand Prix,2023,Circuit of the Americas,Haas F1 Team,HUL,30,11,MAG
+1116,United States Grand Prix,2023,Circuit of the Americas,Haas F1 Team,HUL,0,11,MAG
 1116,United States Grand Prix,2023,Circuit of the Americas,Alfa Romeo,BOT,13,12,ZHO
 1116,United States Grand Prix,2023,Circuit of the Americas,Alfa Romeo,ZHO,12,13,BOT
-1116,United States Grand Prix,2023,Circuit of the Americas,Haas F1 Team,MAG,30,14,HUL
+1116,United States Grand Prix,2023,Circuit of the Americas,Haas F1 Team,MAG,0,14,HUL
 1116,United States Grand Prix,2023,Circuit of the Americas,AlphaTauri,RIC,14,15,TSU
-1116,United States Grand Prix,2023,Circuit of the Americas,Aston Martin,ALO,30,30,STR
-1116,United States Grand Prix,2023,Circuit of the Americas,Alpine F1 Team,OCO,8,30,GAS
-1116,United States Grand Prix,2023,Circuit of the Americas,Mercedes,HAM,3,30,RUS
-1116,United States Grand Prix,2023,Circuit of the Americas,Ferrari,LEC,1,30,SAI
+1116,United States Grand Prix,2023,Circuit of the Americas,Aston Martin,ALO,0,0,STR
+1116,United States Grand Prix,2023,Circuit of the Americas,Alpine F1 Team,OCO,8,0,GAS
+1116,United States Grand Prix,2023,Circuit of the Americas,Mercedes,HAM,3,0,RUS
+1116,United States Grand Prix,2023,Circuit of the Americas,Ferrari,LEC,1,0,SAI
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Red Bull,VER,3,1,PER
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Mercedes,HAM,6,2,RUS
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Ferrari,LEC,1,3,SAI
@@ -2733,7 +2733,7 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,teammate
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Haas F1 Team,HUL,12,13,MAG
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Alfa Romeo,ZHO,10,14,BOT
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Alfa Romeo,BOT,9,15,ZHO
-1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Aston Martin,STR,30,17,ALO
-1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Aston Martin,ALO,13,30,STR
-1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,16,30,HUL
-1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Red Bull,PER,5,30,VER
+1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Aston Martin,STR,0,17,ALO
+1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Aston Martin,ALO,13,0,STR
+1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,16,0,HUL
+1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Red Bull,PER,5,0,VER
