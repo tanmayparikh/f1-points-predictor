@@ -2737,3 +2737,39 @@ raceId,race,year,circuit,constructor,driver,qualifyingPos,position,points,teamma
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Aston Martin,ALO,13,0,0.0,STR
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Haas F1 Team,MAG,16,0,0.0,HUL
 1117,Mexico City Grand Prix,2023,Autódromo Hermanos Rodríguez,Red Bull,PER,5,0,0.0,VER
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Red Bull,VER,1,1,25.0,PER
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,McLaren,NOR,6,2,19.0,OTHER
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Aston Martin,ALO,4,3,15.0,STR
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Red Bull,PER,9,4,12.0,VER
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Aston Martin,STR,3,5,10.0,ALO
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Ferrari,SAI,7,6,8.0,LEC
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Alpine F1 Team,GAS,15,7,6.0,OCO
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Mercedes,HAM,5,8,4.0,RUS
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,AlphaTauri,TSU,16,9,2.0,RIC
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Alpine F1 Team,OCO,14,10,1.0,GAS
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Haas F1 Team,HUL,11,12,0.0,MAG
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,AlphaTauri,RIC,17,13,0.0,TSU
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Mercedes,RUS,8,0,0.0,HAM
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Alfa Romeo,BOT,18,0,0.0,ZHO
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Alfa Romeo,ZHO,20,0,0.0,BOT
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Haas F1 Team,MAG,12,0,0.0,HUL
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Williams,ALB,13,0,0.0,OTHER
+1118,São Paulo Grand Prix,2023,Autódromo José Carlos Pace,Ferrari,LEC,0,0,0.0,SAI
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Red Bull,VER,1,1,26.0,PER
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Ferrari,LEC,2,2,18.0,SAI
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Mercedes,RUS,4,3,15.0,HAM
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Red Bull,PER,9,4,12.0,VER
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,McLaren,NOR,5,5,10.0,OTHER
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Aston Martin,ALO,7,7,6.0,STR
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,AlphaTauri,TSU,6,8,4.0,RIC
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Mercedes,HAM,11,9,2.0,RUS
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Aston Martin,STR,13,10,1.0,ALO
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,AlphaTauri,RIC,15,11,0.0,TSU
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Alpine F1 Team,OCO,12,12,0.0,GAS
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Alpine F1 Team,GAS,10,13,0.0,OCO
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Williams,ALB,14,14,0.0,OTHER
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Haas F1 Team,HUL,8,15,0.0,MAG
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Alfa Romeo,ZHO,19,17,0.0,BOT
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Ferrari,SAI,16,18,0.0,LEC
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Alfa Romeo,BOT,18,19,0.0,ZHO
+1120,Abu Dhabi Grand Prix,2023,Yas Marina Circuit,Haas F1 Team,MAG,17,20,0.0,HUL
